@@ -45,7 +45,9 @@ export function Navigation() {
         {/* Zone 2: 4–6 nav links, 1–2 word labels, single-line */}
         <nav className="hidden lg:flex items-center gap-7 text-sm font-medium text-stone-600">
           {navLinks.map(link => {
-            const isActive = pathname === link.href;
+            const cleanCur = (pathname || '/').replace(/\/$/, '') || '/';
+            const cleanTarget = (link.href || '/').replace(/\/$/, '') || '/';
+            const isActive = cleanCur === cleanTarget;
             return (
               <Link
                 key={link.href}

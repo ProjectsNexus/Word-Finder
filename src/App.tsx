@@ -9,14 +9,16 @@ import { LetterBrowserPage } from './pages/LetterBrowserPage';
 import { WordleArchivePage } from './pages/WordleArchivePage';
 import { BlogArticlePage } from './pages/BlogArticlePage';
 import { SitemapIndexPage } from './pages/SitemapIndexPage';
+import { NotFoundPage } from './pages/NotFoundPage';
 
 function AppContent() {
   const { pathname } = useRouter();
 
-  // Normalize path (strip trailing slash if not root)
-  const normPath = pathname.length > 1 && pathname.endsWith('/') 
-    ? pathname.slice(0, -1) 
-    : pathname;
+  // Normalize path: lowercase, strip query/hash, strip trailing slash if not root
+  const cleanPath = (pathname || '/').split('?')[0].split('#')[0].trim().toLowerCase();
+  const normPath = cleanPath.length > 1 && cleanPath.endsWith('/') 
+    ? cleanPath.slice(0, -1) 
+    : cleanPath;
 
   // 1. Homepage: 5-Letter Solver with primary keywords "wordle solver" & "wordle solver pro"
   if (normPath === '/' || normPath === '') {
@@ -108,8 +110,8 @@ function AppContent() {
     return <BlogArticlePage slug={slug} />;
   }
 
-  // Default fallback to 5-letter solver
-  return <SolverPage wordLength={5} routePath="/" />;
+  // 11. 404 Not Found for unrecognized URLs
+  return <NotFoundPage attemptedPath={pathname} />;
 }
 
 export default function App() {
