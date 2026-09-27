@@ -1,0 +1,4502 @@
+[
+  {
+    "number": 1926,
+    "date": "2026-09-27",
+    "word": "STOCK",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1925,
+    "date": "2026-09-26",
+    "word": "STINT",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 4,
+    "hasRepeats": true
+  },
+  {
+    "number": 1924,
+    "date": "2026-09-25",
+    "word": "STINK",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1923,
+    "date": "2026-09-24",
+    "word": "STING",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1922,
+    "date": "2026-09-23",
+    "word": "STILT",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 4,
+    "hasRepeats": true
+  },
+  {
+    "number": 1921,
+    "date": "2026-09-22",
+    "word": "STILL",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 4,
+    "hasRepeats": true
+  },
+  {
+    "number": 1920,
+    "date": "2026-09-21",
+    "word": "STIFF",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 4,
+    "hasRepeats": true
+  },
+  {
+    "number": 1919,
+    "date": "2026-09-20",
+    "word": "STICK",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1918,
+    "date": "2026-09-19",
+    "word": "STERN",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1917,
+    "date": "2026-09-18",
+    "word": "STEIN",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1916,
+    "date": "2026-09-17",
+    "word": "STEER",
+    "difficulty": "Hard",
+    "vowelCount": 2,
+    "uniqueLetters": 4,
+    "hasRepeats": true
+  },
+  {
+    "number": 1915,
+    "date": "2026-09-16",
+    "word": "STEEP",
+    "difficulty": "Hard",
+    "vowelCount": 2,
+    "uniqueLetters": 4,
+    "hasRepeats": true
+  },
+  {
+    "number": 1914,
+    "date": "2026-09-15",
+    "word": "STEEL",
+    "difficulty": "Hard",
+    "vowelCount": 2,
+    "uniqueLetters": 4,
+    "hasRepeats": true
+  },
+  {
+    "number": 1913,
+    "date": "2026-09-14",
+    "word": "STEED",
+    "difficulty": "Hard",
+    "vowelCount": 2,
+    "uniqueLetters": 4,
+    "hasRepeats": true
+  },
+  {
+    "number": 1912,
+    "date": "2026-09-13",
+    "word": "STEAM",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1911,
+    "date": "2026-09-12",
+    "word": "STEAL",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1910,
+    "date": "2026-09-11",
+    "word": "STEAK",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1909,
+    "date": "2026-09-10",
+    "word": "STEAD",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1908,
+    "date": "2026-09-09",
+    "word": "STAVE",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1907,
+    "date": "2026-09-08",
+    "word": "STATE",
+    "difficulty": "Hard",
+    "vowelCount": 2,
+    "uniqueLetters": 4,
+    "hasRepeats": true
+  },
+  {
+    "number": 1906,
+    "date": "2026-09-07",
+    "word": "STASH",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 4,
+    "hasRepeats": true
+  },
+  {
+    "number": 1905,
+    "date": "2026-09-06",
+    "word": "START",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 4,
+    "hasRepeats": true
+  },
+  {
+    "number": 1904,
+    "date": "2026-09-05",
+    "word": "STARK",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1903,
+    "date": "2026-09-04",
+    "word": "STARE",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1902,
+    "date": "2026-09-03",
+    "word": "STANK",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1901,
+    "date": "2026-09-02",
+    "word": "STAND",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1900,
+    "date": "2026-09-01",
+    "word": "STAMP",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1899,
+    "date": "2026-08-31",
+    "word": "STALL",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 4,
+    "hasRepeats": true
+  },
+  {
+    "number": 1898,
+    "date": "2026-08-30",
+    "word": "STALK",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1897,
+    "date": "2026-08-29",
+    "word": "STALE",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1896,
+    "date": "2026-08-28",
+    "word": "STAKE",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1895,
+    "date": "2026-08-27",
+    "word": "STAIR",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1894,
+    "date": "2026-08-26",
+    "word": "STAIN",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1893,
+    "date": "2026-08-25",
+    "word": "STAID",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1892,
+    "date": "2026-08-24",
+    "word": "STAGE",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1891,
+    "date": "2026-08-23",
+    "word": "STAFF",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 4,
+    "hasRepeats": true
+  },
+  {
+    "number": 1890,
+    "date": "2026-08-22",
+    "word": "STACK",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1889,
+    "date": "2026-08-21",
+    "word": "SQUIB",
+    "difficulty": "Hard",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1888,
+    "date": "2026-08-20",
+    "word": "SQUAT",
+    "difficulty": "Hard",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1887,
+    "date": "2026-08-19",
+    "word": "SQUAD",
+    "difficulty": "Hard",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1886,
+    "date": "2026-08-18",
+    "word": "SPURT",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1885,
+    "date": "2026-08-17",
+    "word": "SPURN",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1884,
+    "date": "2026-08-16",
+    "word": "SPUNK",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1883,
+    "date": "2026-08-15",
+    "word": "SPRIG",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1882,
+    "date": "2026-08-14",
+    "word": "SPREE",
+    "difficulty": "Hard",
+    "vowelCount": 2,
+    "uniqueLetters": 4,
+    "hasRepeats": true
+  },
+  {
+    "number": 1881,
+    "date": "2026-08-13",
+    "word": "SPRAY",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1880,
+    "date": "2026-08-12",
+    "word": "SPOUT",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1879,
+    "date": "2026-08-11",
+    "word": "SPORT",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1878,
+    "date": "2026-08-10",
+    "word": "SPORE",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1877,
+    "date": "2026-08-09",
+    "word": "SPOON",
+    "difficulty": "Hard",
+    "vowelCount": 2,
+    "uniqueLetters": 4,
+    "hasRepeats": true
+  },
+  {
+    "number": 1876,
+    "date": "2026-08-08",
+    "word": "SPOOL",
+    "difficulty": "Hard",
+    "vowelCount": 2,
+    "uniqueLetters": 4,
+    "hasRepeats": true
+  },
+  {
+    "number": 1875,
+    "date": "2026-08-07",
+    "word": "SPOOK",
+    "difficulty": "Hard",
+    "vowelCount": 2,
+    "uniqueLetters": 4,
+    "hasRepeats": true
+  },
+  {
+    "number": 1874,
+    "date": "2026-08-06",
+    "word": "SPOOF",
+    "difficulty": "Hard",
+    "vowelCount": 2,
+    "uniqueLetters": 4,
+    "hasRepeats": true
+  },
+  {
+    "number": 1873,
+    "date": "2026-08-05",
+    "word": "SPOKE",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1872,
+    "date": "2026-08-04",
+    "word": "SPOIL",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1871,
+    "date": "2026-08-03",
+    "word": "SPLIT",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1870,
+    "date": "2026-08-02",
+    "word": "SPLAT",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1869,
+    "date": "2026-08-01",
+    "word": "SPITE",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1868,
+    "date": "2026-07-31",
+    "word": "SPIRE",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1867,
+    "date": "2026-07-30",
+    "word": "SPINY",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1866,
+    "date": "2026-07-29",
+    "word": "SPINE",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1865,
+    "date": "2026-07-28",
+    "word": "SPILT",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1864,
+    "date": "2026-07-27",
+    "word": "SPILL",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 4,
+    "hasRepeats": true
+  },
+  {
+    "number": 1863,
+    "date": "2026-07-26",
+    "word": "SPIKY",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1862,
+    "date": "2026-07-25",
+    "word": "SPIKE",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1861,
+    "date": "2026-07-24",
+    "word": "SPIEL",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1860,
+    "date": "2026-07-23",
+    "word": "SPIED",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1859,
+    "date": "2026-07-22",
+    "word": "SPICY",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1858,
+    "date": "2026-07-21",
+    "word": "SPICE",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1857,
+    "date": "2026-07-20",
+    "word": "SPERM",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1856,
+    "date": "2026-07-19",
+    "word": "SPENT",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1855,
+    "date": "2026-07-18",
+    "word": "SPEND",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1854,
+    "date": "2026-07-17",
+    "word": "SPELT",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1853,
+    "date": "2026-07-16",
+    "word": "SPELL",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 4,
+    "hasRepeats": true
+  },
+  {
+    "number": 1852,
+    "date": "2026-07-15",
+    "word": "SPEED",
+    "difficulty": "Hard",
+    "vowelCount": 2,
+    "uniqueLetters": 4,
+    "hasRepeats": true
+  },
+  {
+    "number": 1851,
+    "date": "2026-07-14",
+    "word": "SPECK",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1850,
+    "date": "2026-07-13",
+    "word": "SPEAR",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1849,
+    "date": "2026-07-12",
+    "word": "SPEAK",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1848,
+    "date": "2026-07-11",
+    "word": "SPAWN",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1847,
+    "date": "2026-07-10",
+    "word": "SPASM",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 4,
+    "hasRepeats": true
+  },
+  {
+    "number": 1846,
+    "date": "2026-07-09",
+    "word": "SPARK",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1845,
+    "date": "2026-07-08",
+    "word": "SPARE",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1844,
+    "date": "2026-07-07",
+    "word": "SPANK",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1843,
+    "date": "2026-07-06",
+    "word": "SPADE",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1842,
+    "date": "2026-07-05",
+    "word": "SPACE",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1841,
+    "date": "2026-07-04",
+    "word": "SOWER",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1840,
+    "date": "2026-07-03",
+    "word": "SOUTH",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1839,
+    "date": "2026-07-02",
+    "word": "SOUND",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1838,
+    "date": "2026-07-01",
+    "word": "SORRY",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 4,
+    "hasRepeats": true
+  },
+  {
+    "number": 1837,
+    "date": "2026-06-30",
+    "word": "SOOTY",
+    "difficulty": "Hard",
+    "vowelCount": 2,
+    "uniqueLetters": 4,
+    "hasRepeats": true
+  },
+  {
+    "number": 1836,
+    "date": "2026-06-29",
+    "word": "SOOTH",
+    "difficulty": "Hard",
+    "vowelCount": 2,
+    "uniqueLetters": 4,
+    "hasRepeats": true
+  },
+  {
+    "number": 1835,
+    "date": "2026-06-28",
+    "word": "SONIC",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1834,
+    "date": "2026-06-27",
+    "word": "SONAR",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1833,
+    "date": "2026-06-26",
+    "word": "SOLVE",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1832,
+    "date": "2026-06-25",
+    "word": "SOLID",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1831,
+    "date": "2026-06-24",
+    "word": "SOLAR",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1830,
+    "date": "2026-06-23",
+    "word": "SOGGY",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 4,
+    "hasRepeats": true
+  },
+  {
+    "number": 1829,
+    "date": "2026-06-22",
+    "word": "SOBER",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1828,
+    "date": "2026-06-21",
+    "word": "SOAPY",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1827,
+    "date": "2026-06-20",
+    "word": "SNUFF",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 4,
+    "hasRepeats": true
+  },
+  {
+    "number": 1826,
+    "date": "2026-06-19",
+    "word": "SNUCK",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1825,
+    "date": "2026-06-18",
+    "word": "SNOWY",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1824,
+    "date": "2026-06-17",
+    "word": "SNOUT",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1823,
+    "date": "2026-06-16",
+    "word": "SNORT",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1822,
+    "date": "2026-06-15",
+    "word": "SNORE",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1821,
+    "date": "2026-06-14",
+    "word": "SNOOP",
+    "difficulty": "Hard",
+    "vowelCount": 2,
+    "uniqueLetters": 4,
+    "hasRepeats": true
+  },
+  {
+    "number": 1820,
+    "date": "2026-06-13",
+    "word": "SNIPE",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1819,
+    "date": "2026-06-12",
+    "word": "SNIFF",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 4,
+    "hasRepeats": true
+  },
+  {
+    "number": 1818,
+    "date": "2026-06-11",
+    "word": "SNIDE",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1817,
+    "date": "2026-06-10",
+    "word": "SNEER",
+    "difficulty": "Hard",
+    "vowelCount": 2,
+    "uniqueLetters": 4,
+    "hasRepeats": true
+  },
+  {
+    "number": 1816,
+    "date": "2026-06-09",
+    "word": "SNEAK",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1815,
+    "date": "2026-06-08",
+    "word": "SNARL",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1814,
+    "date": "2026-06-07",
+    "word": "SNARE",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1813,
+    "date": "2026-06-06",
+    "word": "SNAKY",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1812,
+    "date": "2026-06-05",
+    "word": "SNAKE",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1811,
+    "date": "2026-06-04",
+    "word": "SNAIL",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1810,
+    "date": "2026-06-03",
+    "word": "SNACK",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1809,
+    "date": "2026-06-02",
+    "word": "SMOTE",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1808,
+    "date": "2026-06-01",
+    "word": "SMOKY",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1807,
+    "date": "2026-05-31",
+    "word": "SMOKE",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1806,
+    "date": "2026-05-30",
+    "word": "SMOCK",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1805,
+    "date": "2026-05-29",
+    "word": "SMITH",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1804,
+    "date": "2026-05-28",
+    "word": "SMITE",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1803,
+    "date": "2026-05-27",
+    "word": "SMIRK",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1802,
+    "date": "2026-05-26",
+    "word": "SMILE",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1801,
+    "date": "2026-05-25",
+    "word": "SMELT",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1800,
+    "date": "2026-05-24",
+    "word": "SMELL",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 4,
+    "hasRepeats": true
+  },
+  {
+    "number": 1799,
+    "date": "2026-05-23",
+    "word": "SMEAR",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1798,
+    "date": "2026-05-22",
+    "word": "SMASH",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 4,
+    "hasRepeats": true
+  },
+  {
+    "number": 1797,
+    "date": "2026-05-21",
+    "word": "SMART",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1796,
+    "date": "2026-05-20",
+    "word": "SMALL",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 4,
+    "hasRepeats": true
+  },
+  {
+    "number": 1795,
+    "date": "2026-05-19",
+    "word": "SMACK",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1794,
+    "date": "2026-05-18",
+    "word": "SLYLY",
+    "difficulty": "Hard",
+    "vowelCount": 0,
+    "uniqueLetters": 3,
+    "hasRepeats": true
+  },
+  {
+    "number": 1793,
+    "date": "2026-05-17",
+    "word": "SLUSH",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 4,
+    "hasRepeats": true
+  },
+  {
+    "number": 1792,
+    "date": "2026-05-16",
+    "word": "SLURP",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1791,
+    "date": "2026-05-15",
+    "word": "SLUNK",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1790,
+    "date": "2026-05-14",
+    "word": "SLUNG",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1789,
+    "date": "2026-05-13",
+    "word": "SLUMP",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1788,
+    "date": "2026-05-12",
+    "word": "SLOTH",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1787,
+    "date": "2026-05-11",
+    "word": "SLOSH",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 4,
+    "hasRepeats": true
+  },
+  {
+    "number": 1786,
+    "date": "2026-05-10",
+    "word": "SLOPE",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1785,
+    "date": "2026-05-09",
+    "word": "SLOOP",
+    "difficulty": "Hard",
+    "vowelCount": 2,
+    "uniqueLetters": 4,
+    "hasRepeats": true
+  },
+  {
+    "number": 1784,
+    "date": "2026-05-08",
+    "word": "SLINK",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1783,
+    "date": "2026-05-07",
+    "word": "SLING",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1782,
+    "date": "2026-05-06",
+    "word": "SLIMY",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1781,
+    "date": "2026-05-05",
+    "word": "SLIME",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1780,
+    "date": "2026-05-04",
+    "word": "SLIDE",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1779,
+    "date": "2026-05-03",
+    "word": "SLICK",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1778,
+    "date": "2026-05-02",
+    "word": "SLICE",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1777,
+    "date": "2026-05-01",
+    "word": "SLEPT",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1776,
+    "date": "2026-04-30",
+    "word": "SLEET",
+    "difficulty": "Hard",
+    "vowelCount": 2,
+    "uniqueLetters": 4,
+    "hasRepeats": true
+  },
+  {
+    "number": 1775,
+    "date": "2026-04-29",
+    "word": "SLEEP",
+    "difficulty": "Hard",
+    "vowelCount": 2,
+    "uniqueLetters": 4,
+    "hasRepeats": true
+  },
+  {
+    "number": 1774,
+    "date": "2026-04-28",
+    "word": "SLEEK",
+    "difficulty": "Hard",
+    "vowelCount": 2,
+    "uniqueLetters": 4,
+    "hasRepeats": true
+  },
+  {
+    "number": 1773,
+    "date": "2026-04-27",
+    "word": "SLATE",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1772,
+    "date": "2026-04-26",
+    "word": "SLASH",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 4,
+    "hasRepeats": true
+  },
+  {
+    "number": 1771,
+    "date": "2026-04-25",
+    "word": "SLANT",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1770,
+    "date": "2026-04-24",
+    "word": "SLANG",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1769,
+    "date": "2026-04-23",
+    "word": "SLAIN",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1768,
+    "date": "2026-04-22",
+    "word": "SLACK",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1767,
+    "date": "2026-04-21",
+    "word": "SKUNK",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 4,
+    "hasRepeats": true
+  },
+  {
+    "number": 1766,
+    "date": "2026-04-20",
+    "word": "SKULL",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 4,
+    "hasRepeats": true
+  },
+  {
+    "number": 1765,
+    "date": "2026-04-19",
+    "word": "SKULK",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 4,
+    "hasRepeats": true
+  },
+  {
+    "number": 1764,
+    "date": "2026-04-18",
+    "word": "SKIRT",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1763,
+    "date": "2026-04-17",
+    "word": "SKIMP",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1762,
+    "date": "2026-04-16",
+    "word": "SKILL",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 4,
+    "hasRepeats": true
+  },
+  {
+    "number": 1761,
+    "date": "2026-04-15",
+    "word": "SKIFF",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 4,
+    "hasRepeats": true
+  },
+  {
+    "number": 1760,
+    "date": "2026-04-14",
+    "word": "SKIER",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1759,
+    "date": "2026-04-13",
+    "word": "SKATE",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1758,
+    "date": "2026-04-12",
+    "word": "SIXTY",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1757,
+    "date": "2026-04-11",
+    "word": "SIXTH",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1756,
+    "date": "2026-04-10",
+    "word": "SISSY",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 3,
+    "hasRepeats": true
+  },
+  {
+    "number": 1755,
+    "date": "2026-04-09",
+    "word": "SIREN",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1754,
+    "date": "2026-04-08",
+    "word": "SINGE",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1753,
+    "date": "2026-04-07",
+    "word": "SINEW",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1752,
+    "date": "2026-04-06",
+    "word": "SINCE",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1751,
+    "date": "2026-04-05",
+    "word": "SILLY",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 4,
+    "hasRepeats": true
+  },
+  {
+    "number": 1750,
+    "date": "2026-04-04",
+    "word": "SILKY",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1749,
+    "date": "2026-04-03",
+    "word": "SIGMA",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1748,
+    "date": "2026-04-02",
+    "word": "SIGHT",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1747,
+    "date": "2026-04-01",
+    "word": "SIEVE",
+    "difficulty": "Hard",
+    "vowelCount": 3,
+    "uniqueLetters": 4,
+    "hasRepeats": true
+  },
+  {
+    "number": 1746,
+    "date": "2026-03-31",
+    "word": "SIEGE",
+    "difficulty": "Hard",
+    "vowelCount": 3,
+    "uniqueLetters": 4,
+    "hasRepeats": true
+  },
+  {
+    "number": 1745,
+    "date": "2026-03-30",
+    "word": "SHYLY",
+    "difficulty": "Hard",
+    "vowelCount": 0,
+    "uniqueLetters": 4,
+    "hasRepeats": true
+  },
+  {
+    "number": 1744,
+    "date": "2026-03-29",
+    "word": "SHUSH",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 3,
+    "hasRepeats": true
+  },
+  {
+    "number": 1743,
+    "date": "2026-03-28",
+    "word": "SHUNT",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1742,
+    "date": "2026-03-27",
+    "word": "SHUCK",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1741,
+    "date": "2026-03-26",
+    "word": "SHRUG",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1740,
+    "date": "2026-03-25",
+    "word": "SHRUB",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1739,
+    "date": "2026-03-24",
+    "word": "SHREW",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1738,
+    "date": "2026-03-23",
+    "word": "SHOWY",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1737,
+    "date": "2026-03-22",
+    "word": "SHOWN",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1736,
+    "date": "2026-03-21",
+    "word": "SHOVE",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1735,
+    "date": "2026-03-20",
+    "word": "SHOUT",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1734,
+    "date": "2026-03-19",
+    "word": "SHORT",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1733,
+    "date": "2026-03-18",
+    "word": "SHORN",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1732,
+    "date": "2026-03-17",
+    "word": "SHORE",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1731,
+    "date": "2026-03-16",
+    "word": "SHOOT",
+    "difficulty": "Hard",
+    "vowelCount": 2,
+    "uniqueLetters": 4,
+    "hasRepeats": true
+  },
+  {
+    "number": 1730,
+    "date": "2026-03-15",
+    "word": "SHOOK",
+    "difficulty": "Hard",
+    "vowelCount": 2,
+    "uniqueLetters": 4,
+    "hasRepeats": true
+  },
+  {
+    "number": 1729,
+    "date": "2026-03-14",
+    "word": "SHONE",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1728,
+    "date": "2026-03-13",
+    "word": "SHOCK",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1727,
+    "date": "2026-03-12",
+    "word": "SHOAL",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1726,
+    "date": "2026-03-11",
+    "word": "SHIRT",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1725,
+    "date": "2026-03-10",
+    "word": "SHIRK",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1724,
+    "date": "2026-03-09",
+    "word": "SHIRE",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1723,
+    "date": "2026-03-08",
+    "word": "SHINY",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1722,
+    "date": "2026-03-07",
+    "word": "SHINE",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1721,
+    "date": "2026-03-06",
+    "word": "SHIFT",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1720,
+    "date": "2026-03-05",
+    "word": "SHIED",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1719,
+    "date": "2026-03-04",
+    "word": "SHELL",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 4,
+    "hasRepeats": true
+  },
+  {
+    "number": 1718,
+    "date": "2026-03-03",
+    "word": "SHELF",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1717,
+    "date": "2026-03-02",
+    "word": "SHEIK",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1716,
+    "date": "2026-03-01",
+    "word": "SHEET",
+    "difficulty": "Hard",
+    "vowelCount": 2,
+    "uniqueLetters": 4,
+    "hasRepeats": true
+  },
+  {
+    "number": 1715,
+    "date": "2026-02-28",
+    "word": "SHEER",
+    "difficulty": "Hard",
+    "vowelCount": 2,
+    "uniqueLetters": 4,
+    "hasRepeats": true
+  },
+  {
+    "number": 1714,
+    "date": "2026-02-27",
+    "word": "SHEEP",
+    "difficulty": "Hard",
+    "vowelCount": 2,
+    "uniqueLetters": 4,
+    "hasRepeats": true
+  },
+  {
+    "number": 1713,
+    "date": "2026-02-26",
+    "word": "SHEEN",
+    "difficulty": "Hard",
+    "vowelCount": 2,
+    "uniqueLetters": 4,
+    "hasRepeats": true
+  },
+  {
+    "number": 1712,
+    "date": "2026-02-25",
+    "word": "SHEAR",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1711,
+    "date": "2026-02-24",
+    "word": "SHAWL",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1710,
+    "date": "2026-02-23",
+    "word": "SHAVE",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1709,
+    "date": "2026-02-22",
+    "word": "SHARP",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1708,
+    "date": "2026-02-21",
+    "word": "SHARK",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1707,
+    "date": "2026-02-20",
+    "word": "SHARE",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1706,
+    "date": "2026-02-19",
+    "word": "SHARD",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1705,
+    "date": "2026-02-18",
+    "word": "SHAPE",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1704,
+    "date": "2026-02-17",
+    "word": "SHANK",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1703,
+    "date": "2026-02-16",
+    "word": "SHAME",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1702,
+    "date": "2026-02-15",
+    "word": "SHALT",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1701,
+    "date": "2026-02-14",
+    "word": "SHALL",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 4,
+    "hasRepeats": true
+  },
+  {
+    "number": 1700,
+    "date": "2026-02-13",
+    "word": "SHALE",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1699,
+    "date": "2026-02-12",
+    "word": "SHAKY",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1698,
+    "date": "2026-02-11",
+    "word": "SHAKE",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1697,
+    "date": "2026-02-10",
+    "word": "SHAFT",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1696,
+    "date": "2026-02-09",
+    "word": "SHADY",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1695,
+    "date": "2026-02-08",
+    "word": "SHADE",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1694,
+    "date": "2026-02-07",
+    "word": "SHACK",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1693,
+    "date": "2026-02-06",
+    "word": "SEWER",
+    "difficulty": "Hard",
+    "vowelCount": 2,
+    "uniqueLetters": 4,
+    "hasRepeats": true
+  },
+  {
+    "number": 1692,
+    "date": "2026-02-05",
+    "word": "SEVER",
+    "difficulty": "Hard",
+    "vowelCount": 2,
+    "uniqueLetters": 4,
+    "hasRepeats": true
+  },
+  {
+    "number": 1691,
+    "date": "2026-02-04",
+    "word": "SEVEN",
+    "difficulty": "Hard",
+    "vowelCount": 2,
+    "uniqueLetters": 4,
+    "hasRepeats": true
+  },
+  {
+    "number": 1690,
+    "date": "2026-02-03",
+    "word": "SETUP",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1689,
+    "date": "2026-02-02",
+    "word": "SERVE",
+    "difficulty": "Hard",
+    "vowelCount": 2,
+    "uniqueLetters": 4,
+    "hasRepeats": true
+  },
+  {
+    "number": 1688,
+    "date": "2026-02-01",
+    "word": "SERUM",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1687,
+    "date": "2026-01-31",
+    "word": "SERIF",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1686,
+    "date": "2026-01-30",
+    "word": "SEPIA",
+    "difficulty": "Easy",
+    "vowelCount": 3,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1685,
+    "date": "2026-01-29",
+    "word": "SENSE",
+    "difficulty": "Hard",
+    "vowelCount": 2,
+    "uniqueLetters": 3,
+    "hasRepeats": true
+  },
+  {
+    "number": 1684,
+    "date": "2026-01-28",
+    "word": "SEMEN",
+    "difficulty": "Hard",
+    "vowelCount": 2,
+    "uniqueLetters": 4,
+    "hasRepeats": true
+  },
+  {
+    "number": 1683,
+    "date": "2026-01-27",
+    "word": "SEIZE",
+    "difficulty": "Hard",
+    "vowelCount": 3,
+    "uniqueLetters": 4,
+    "hasRepeats": true
+  },
+  {
+    "number": 1682,
+    "date": "2026-01-26",
+    "word": "SEGUE",
+    "difficulty": "Hard",
+    "vowelCount": 3,
+    "uniqueLetters": 4,
+    "hasRepeats": true
+  },
+  {
+    "number": 1681,
+    "date": "2026-01-25",
+    "word": "SEEDY",
+    "difficulty": "Hard",
+    "vowelCount": 2,
+    "uniqueLetters": 4,
+    "hasRepeats": true
+  },
+  {
+    "number": 1680,
+    "date": "2026-01-24",
+    "word": "SEDAN",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1679,
+    "date": "2026-01-23",
+    "word": "SCUBA",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1678,
+    "date": "2026-01-22",
+    "word": "SCRUM",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1677,
+    "date": "2026-01-21",
+    "word": "SCRUB",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1676,
+    "date": "2026-01-20",
+    "word": "SCREW",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1675,
+    "date": "2026-01-19",
+    "word": "SCREE",
+    "difficulty": "Hard",
+    "vowelCount": 2,
+    "uniqueLetters": 4,
+    "hasRepeats": true
+  },
+  {
+    "number": 1674,
+    "date": "2026-01-18",
+    "word": "SCRAP",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1673,
+    "date": "2026-01-17",
+    "word": "SCRAM",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1672,
+    "date": "2026-01-16",
+    "word": "SCOWL",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1671,
+    "date": "2026-01-15",
+    "word": "SCOUT",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1670,
+    "date": "2026-01-14",
+    "word": "SCOUR",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1669,
+    "date": "2026-01-13",
+    "word": "SCORN",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1668,
+    "date": "2026-01-12",
+    "word": "SCORE",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1667,
+    "date": "2026-01-11",
+    "word": "SCOPE",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1666,
+    "date": "2026-01-10",
+    "word": "SCOOP",
+    "difficulty": "Hard",
+    "vowelCount": 2,
+    "uniqueLetters": 4,
+    "hasRepeats": true
+  },
+  {
+    "number": 1665,
+    "date": "2026-01-09",
+    "word": "SCONE",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1664,
+    "date": "2026-01-08",
+    "word": "SCOLD",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1663,
+    "date": "2026-01-07",
+    "word": "SCOFF",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 4,
+    "hasRepeats": true
+  },
+  {
+    "number": 1662,
+    "date": "2026-01-06",
+    "word": "SCION",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1661,
+    "date": "2026-01-05",
+    "word": "SCENT",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1660,
+    "date": "2026-01-04",
+    "word": "SCENE",
+    "difficulty": "Hard",
+    "vowelCount": 2,
+    "uniqueLetters": 4,
+    "hasRepeats": true
+  },
+  {
+    "number": 1659,
+    "date": "2026-01-03",
+    "word": "SCARY",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1658,
+    "date": "2026-01-02",
+    "word": "SCARF",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1657,
+    "date": "2026-01-01",
+    "word": "SCARE",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1656,
+    "date": "2025-12-31",
+    "word": "SCANT",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1655,
+    "date": "2025-12-30",
+    "word": "SCAMP",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1654,
+    "date": "2025-12-29",
+    "word": "SCALY",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1653,
+    "date": "2025-12-28",
+    "word": "SCALP",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1652,
+    "date": "2025-12-27",
+    "word": "SCALE",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1651,
+    "date": "2025-12-26",
+    "word": "SCALD",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1650,
+    "date": "2025-12-25",
+    "word": "SAVVY",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 4,
+    "hasRepeats": true
+  },
+  {
+    "number": 1649,
+    "date": "2025-12-24",
+    "word": "SAVOY",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1648,
+    "date": "2025-12-23",
+    "word": "SAVOR",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1647,
+    "date": "2025-12-22",
+    "word": "SAUTE",
+    "difficulty": "Easy",
+    "vowelCount": 3,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1646,
+    "date": "2025-12-21",
+    "word": "SAUNA",
+    "difficulty": "Hard",
+    "vowelCount": 3,
+    "uniqueLetters": 4,
+    "hasRepeats": true
+  },
+  {
+    "number": 1645,
+    "date": "2025-12-20",
+    "word": "SAUCY",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1644,
+    "date": "2025-12-19",
+    "word": "SAUCE",
+    "difficulty": "Easy",
+    "vowelCount": 3,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1643,
+    "date": "2025-12-18",
+    "word": "SATYR",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1642,
+    "date": "2025-12-17",
+    "word": "SATIN",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1641,
+    "date": "2025-12-16",
+    "word": "SASSY",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 3,
+    "hasRepeats": true
+  },
+  {
+    "number": 1640,
+    "date": "2025-12-15",
+    "word": "SAPPY",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 4,
+    "hasRepeats": true
+  },
+  {
+    "number": 1639,
+    "date": "2025-12-14",
+    "word": "SANER",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1638,
+    "date": "2025-12-13",
+    "word": "SANDY",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1637,
+    "date": "2025-12-12",
+    "word": "SALVO",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1636,
+    "date": "2025-12-11",
+    "word": "SALVE",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1635,
+    "date": "2025-12-10",
+    "word": "SALTY",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1634,
+    "date": "2025-12-09",
+    "word": "SALSA",
+    "difficulty": "Hard",
+    "vowelCount": 2,
+    "uniqueLetters": 3,
+    "hasRepeats": true
+  },
+  {
+    "number": 1633,
+    "date": "2025-12-08",
+    "word": "SALON",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1632,
+    "date": "2025-12-07",
+    "word": "SALLY",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 4,
+    "hasRepeats": true
+  },
+  {
+    "number": 1631,
+    "date": "2025-12-06",
+    "word": "SALAD",
+    "difficulty": "Hard",
+    "vowelCount": 2,
+    "uniqueLetters": 4,
+    "hasRepeats": true
+  },
+  {
+    "number": 1630,
+    "date": "2025-12-05",
+    "word": "SAINT",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1629,
+    "date": "2025-12-04",
+    "word": "SAFER",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1628,
+    "date": "2025-12-03",
+    "word": "SADLY",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1627,
+    "date": "2025-12-02",
+    "word": "RUSTY",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1626,
+    "date": "2025-12-01",
+    "word": "RURAL",
+    "difficulty": "Hard",
+    "vowelCount": 2,
+    "uniqueLetters": 4,
+    "hasRepeats": true
+  },
+  {
+    "number": 1625,
+    "date": "2025-11-30",
+    "word": "RUPEE",
+    "difficulty": "Hard",
+    "vowelCount": 3,
+    "uniqueLetters": 4,
+    "hasRepeats": true
+  },
+  {
+    "number": 1624,
+    "date": "2025-11-29",
+    "word": "RUMOR",
+    "difficulty": "Hard",
+    "vowelCount": 2,
+    "uniqueLetters": 4,
+    "hasRepeats": true
+  },
+  {
+    "number": 1623,
+    "date": "2025-11-28",
+    "word": "RUMBA",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1622,
+    "date": "2025-11-27",
+    "word": "RULER",
+    "difficulty": "Hard",
+    "vowelCount": 2,
+    "uniqueLetters": 4,
+    "hasRepeats": true
+  },
+  {
+    "number": 1621,
+    "date": "2025-11-26",
+    "word": "RUGBY",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1620,
+    "date": "2025-11-25",
+    "word": "RUDER",
+    "difficulty": "Hard",
+    "vowelCount": 2,
+    "uniqueLetters": 4,
+    "hasRepeats": true
+  },
+  {
+    "number": 1619,
+    "date": "2025-11-24",
+    "word": "RUDDY",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 4,
+    "hasRepeats": true
+  },
+  {
+    "number": 1618,
+    "date": "2025-11-23",
+    "word": "ROYAL",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1617,
+    "date": "2025-11-22",
+    "word": "ROWER",
+    "difficulty": "Hard",
+    "vowelCount": 2,
+    "uniqueLetters": 4,
+    "hasRepeats": true
+  },
+  {
+    "number": 1616,
+    "date": "2025-11-21",
+    "word": "ROWDY",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1615,
+    "date": "2025-11-20",
+    "word": "ROVER",
+    "difficulty": "Hard",
+    "vowelCount": 2,
+    "uniqueLetters": 4,
+    "hasRepeats": true
+  },
+  {
+    "number": 1614,
+    "date": "2025-11-19",
+    "word": "ROUTE",
+    "difficulty": "Easy",
+    "vowelCount": 3,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1613,
+    "date": "2025-11-18",
+    "word": "ROUSE",
+    "difficulty": "Easy",
+    "vowelCount": 3,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1612,
+    "date": "2025-11-17",
+    "word": "ROUND",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1611,
+    "date": "2025-11-16",
+    "word": "ROUGH",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1610,
+    "date": "2025-11-15",
+    "word": "ROUGE",
+    "difficulty": "Easy",
+    "vowelCount": 3,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1609,
+    "date": "2025-11-14",
+    "word": "ROTOR",
+    "difficulty": "Hard",
+    "vowelCount": 2,
+    "uniqueLetters": 3,
+    "hasRepeats": true
+  },
+  {
+    "number": 1608,
+    "date": "2025-11-13",
+    "word": "ROOST",
+    "difficulty": "Hard",
+    "vowelCount": 2,
+    "uniqueLetters": 4,
+    "hasRepeats": true
+  },
+  {
+    "number": 1607,
+    "date": "2025-11-12",
+    "word": "ROOMY",
+    "difficulty": "Hard",
+    "vowelCount": 2,
+    "uniqueLetters": 4,
+    "hasRepeats": true
+  },
+  {
+    "number": 1606,
+    "date": "2025-11-11",
+    "word": "ROGUE",
+    "difficulty": "Easy",
+    "vowelCount": 3,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1605,
+    "date": "2025-11-10",
+    "word": "ROGER",
+    "difficulty": "Hard",
+    "vowelCount": 2,
+    "uniqueLetters": 4,
+    "hasRepeats": true
+  },
+  {
+    "number": 1604,
+    "date": "2025-11-09",
+    "word": "RODEO",
+    "difficulty": "Hard",
+    "vowelCount": 3,
+    "uniqueLetters": 4,
+    "hasRepeats": true
+  },
+  {
+    "number": 1603,
+    "date": "2025-11-08",
+    "word": "ROCKY",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1602,
+    "date": "2025-11-07",
+    "word": "ROBOT",
+    "difficulty": "Hard",
+    "vowelCount": 2,
+    "uniqueLetters": 4,
+    "hasRepeats": true
+  },
+  {
+    "number": 1601,
+    "date": "2025-11-06",
+    "word": "ROBIN",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1600,
+    "date": "2025-11-05",
+    "word": "ROAST",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1599,
+    "date": "2025-11-04",
+    "word": "ROACH",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1598,
+    "date": "2025-11-03",
+    "word": "RIVET",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1597,
+    "date": "2025-11-02",
+    "word": "RIVER",
+    "difficulty": "Hard",
+    "vowelCount": 2,
+    "uniqueLetters": 4,
+    "hasRepeats": true
+  },
+  {
+    "number": 1596,
+    "date": "2025-11-01",
+    "word": "RIVAL",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1595,
+    "date": "2025-10-31",
+    "word": "RISKY",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1594,
+    "date": "2025-10-30",
+    "word": "RISER",
+    "difficulty": "Hard",
+    "vowelCount": 2,
+    "uniqueLetters": 4,
+    "hasRepeats": true
+  },
+  {
+    "number": 1593,
+    "date": "2025-10-29",
+    "word": "RISEN",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1592,
+    "date": "2025-10-28",
+    "word": "RIPER",
+    "difficulty": "Hard",
+    "vowelCount": 2,
+    "uniqueLetters": 4,
+    "hasRepeats": true
+  },
+  {
+    "number": 1591,
+    "date": "2025-10-27",
+    "word": "RIPEN",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1590,
+    "date": "2025-10-26",
+    "word": "RINSE",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1589,
+    "date": "2025-10-25",
+    "word": "RIGOR",
+    "difficulty": "Hard",
+    "vowelCount": 2,
+    "uniqueLetters": 4,
+    "hasRepeats": true
+  },
+  {
+    "number": 1588,
+    "date": "2025-10-24",
+    "word": "RIGID",
+    "difficulty": "Hard",
+    "vowelCount": 2,
+    "uniqueLetters": 4,
+    "hasRepeats": true
+  },
+  {
+    "number": 1587,
+    "date": "2025-10-23",
+    "word": "RIGHT",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1586,
+    "date": "2025-10-22",
+    "word": "RIFLE",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1585,
+    "date": "2025-10-21",
+    "word": "RIDGE",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1584,
+    "date": "2025-10-20",
+    "word": "RIDER",
+    "difficulty": "Hard",
+    "vowelCount": 2,
+    "uniqueLetters": 4,
+    "hasRepeats": true
+  },
+  {
+    "number": 1583,
+    "date": "2025-10-19",
+    "word": "RHYME",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1582,
+    "date": "2025-10-18",
+    "word": "RHINO",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1581,
+    "date": "2025-10-17",
+    "word": "REVUE",
+    "difficulty": "Hard",
+    "vowelCount": 3,
+    "uniqueLetters": 4,
+    "hasRepeats": true
+  },
+  {
+    "number": 1580,
+    "date": "2025-10-16",
+    "word": "REVEL",
+    "difficulty": "Hard",
+    "vowelCount": 2,
+    "uniqueLetters": 4,
+    "hasRepeats": true
+  },
+  {
+    "number": 1579,
+    "date": "2025-10-15",
+    "word": "REUSE",
+    "difficulty": "Hard",
+    "vowelCount": 3,
+    "uniqueLetters": 4,
+    "hasRepeats": true
+  },
+  {
+    "number": 1578,
+    "date": "2025-10-14",
+    "word": "RETRY",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 4,
+    "hasRepeats": true
+  },
+  {
+    "number": 1577,
+    "date": "2025-10-13",
+    "word": "RETRO",
+    "difficulty": "Hard",
+    "vowelCount": 2,
+    "uniqueLetters": 4,
+    "hasRepeats": true
+  },
+  {
+    "number": 1576,
+    "date": "2025-10-12",
+    "word": "RETCH",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1575,
+    "date": "2025-10-11",
+    "word": "RESIN",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1574,
+    "date": "2025-10-10",
+    "word": "RESET",
+    "difficulty": "Hard",
+    "vowelCount": 2,
+    "uniqueLetters": 4,
+    "hasRepeats": true
+  },
+  {
+    "number": 1573,
+    "date": "2025-10-09",
+    "word": "RERUN",
+    "difficulty": "Hard",
+    "vowelCount": 2,
+    "uniqueLetters": 4,
+    "hasRepeats": true
+  },
+  {
+    "number": 1572,
+    "date": "2025-10-08",
+    "word": "REPLY",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1571,
+    "date": "2025-10-07",
+    "word": "REPEL",
+    "difficulty": "Hard",
+    "vowelCount": 2,
+    "uniqueLetters": 4,
+    "hasRepeats": true
+  },
+  {
+    "number": 1570,
+    "date": "2025-10-06",
+    "word": "REPAY",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1569,
+    "date": "2025-10-05",
+    "word": "RENEW",
+    "difficulty": "Hard",
+    "vowelCount": 2,
+    "uniqueLetters": 4,
+    "hasRepeats": true
+  },
+  {
+    "number": 1568,
+    "date": "2025-10-04",
+    "word": "RENAL",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1567,
+    "date": "2025-10-03",
+    "word": "REMIT",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1566,
+    "date": "2025-10-02",
+    "word": "RELIC",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1565,
+    "date": "2025-10-01",
+    "word": "RELAY",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1564,
+    "date": "2025-09-30",
+    "word": "RELAX",
+    "difficulty": "Hard",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1563,
+    "date": "2025-09-29",
+    "word": "REIGN",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1562,
+    "date": "2025-09-28",
+    "word": "REHAB",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1561,
+    "date": "2025-09-27",
+    "word": "REGAL",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1560,
+    "date": "2025-09-26",
+    "word": "REFIT",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1559,
+    "date": "2025-09-25",
+    "word": "REFER",
+    "difficulty": "Hard",
+    "vowelCount": 2,
+    "uniqueLetters": 3,
+    "hasRepeats": true
+  },
+  {
+    "number": 1558,
+    "date": "2025-09-24",
+    "word": "REEDY",
+    "difficulty": "Hard",
+    "vowelCount": 2,
+    "uniqueLetters": 4,
+    "hasRepeats": true
+  },
+  {
+    "number": 1557,
+    "date": "2025-09-23",
+    "word": "RECUT",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1556,
+    "date": "2025-09-22",
+    "word": "RECUR",
+    "difficulty": "Hard",
+    "vowelCount": 2,
+    "uniqueLetters": 4,
+    "hasRepeats": true
+  },
+  {
+    "number": 1555,
+    "date": "2025-09-21",
+    "word": "RECAP",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1554,
+    "date": "2025-09-20",
+    "word": "REBUT",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1553,
+    "date": "2025-09-19",
+    "word": "REBUS",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1552,
+    "date": "2025-09-18",
+    "word": "REBEL",
+    "difficulty": "Hard",
+    "vowelCount": 2,
+    "uniqueLetters": 4,
+    "hasRepeats": true
+  },
+  {
+    "number": 1551,
+    "date": "2025-09-17",
+    "word": "REBAR",
+    "difficulty": "Hard",
+    "vowelCount": 2,
+    "uniqueLetters": 4,
+    "hasRepeats": true
+  },
+  {
+    "number": 1550,
+    "date": "2025-09-16",
+    "word": "REARM",
+    "difficulty": "Hard",
+    "vowelCount": 2,
+    "uniqueLetters": 4,
+    "hasRepeats": true
+  },
+  {
+    "number": 1549,
+    "date": "2025-09-15",
+    "word": "REALM",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1548,
+    "date": "2025-09-14",
+    "word": "READY",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1547,
+    "date": "2025-09-13",
+    "word": "REACT",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1546,
+    "date": "2025-09-12",
+    "word": "REACH",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1545,
+    "date": "2025-09-11",
+    "word": "RAZOR",
+    "difficulty": "Hard",
+    "vowelCount": 2,
+    "uniqueLetters": 4,
+    "hasRepeats": true
+  },
+  {
+    "number": 1544,
+    "date": "2025-09-10",
+    "word": "RAYON",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1543,
+    "date": "2025-09-09",
+    "word": "RAVEN",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1542,
+    "date": "2025-09-08",
+    "word": "RATTY",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 4,
+    "hasRepeats": true
+  },
+  {
+    "number": 1541,
+    "date": "2025-09-07",
+    "word": "RATIO",
+    "difficulty": "Easy",
+    "vowelCount": 3,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1540,
+    "date": "2025-09-06",
+    "word": "RASPY",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1539,
+    "date": "2025-09-05",
+    "word": "RARER",
+    "difficulty": "Hard",
+    "vowelCount": 2,
+    "uniqueLetters": 3,
+    "hasRepeats": true
+  },
+  {
+    "number": 1538,
+    "date": "2025-09-04",
+    "word": "RAPID",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1537,
+    "date": "2025-09-03",
+    "word": "RANGE",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1536,
+    "date": "2025-09-02",
+    "word": "RANDY",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1535,
+    "date": "2025-09-01",
+    "word": "RANCH",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1534,
+    "date": "2025-08-31",
+    "word": "RAMEN",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1533,
+    "date": "2025-08-30",
+    "word": "RALPH",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1532,
+    "date": "2025-08-29",
+    "word": "RALLY",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 4,
+    "hasRepeats": true
+  },
+  {
+    "number": 1531,
+    "date": "2025-08-28",
+    "word": "RAJAH",
+    "difficulty": "Hard",
+    "vowelCount": 2,
+    "uniqueLetters": 4,
+    "hasRepeats": true
+  },
+  {
+    "number": 1530,
+    "date": "2025-08-27",
+    "word": "RAISE",
+    "difficulty": "Easy",
+    "vowelCount": 3,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1529,
+    "date": "2025-08-26",
+    "word": "RAINY",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1528,
+    "date": "2025-08-25",
+    "word": "RADIO",
+    "difficulty": "Easy",
+    "vowelCount": 3,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1527,
+    "date": "2025-08-24",
+    "word": "RADII",
+    "difficulty": "Hard",
+    "vowelCount": 3,
+    "uniqueLetters": 4,
+    "hasRepeats": true
+  },
+  {
+    "number": 1526,
+    "date": "2025-08-23",
+    "word": "RADAR",
+    "difficulty": "Hard",
+    "vowelCount": 2,
+    "uniqueLetters": 3,
+    "hasRepeats": true
+  },
+  {
+    "number": 1525,
+    "date": "2025-08-22",
+    "word": "RACER",
+    "difficulty": "Hard",
+    "vowelCount": 2,
+    "uniqueLetters": 4,
+    "hasRepeats": true
+  },
+  {
+    "number": 1524,
+    "date": "2025-08-21",
+    "word": "RABID",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1523,
+    "date": "2025-08-20",
+    "word": "RABBI",
+    "difficulty": "Hard",
+    "vowelCount": 2,
+    "uniqueLetters": 4,
+    "hasRepeats": true
+  },
+  {
+    "number": 1522,
+    "date": "2025-08-19",
+    "word": "QUOTH",
+    "difficulty": "Hard",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1521,
+    "date": "2025-08-18",
+    "word": "QUOTE",
+    "difficulty": "Hard",
+    "vowelCount": 3,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1520,
+    "date": "2025-08-17",
+    "word": "QUOTA",
+    "difficulty": "Hard",
+    "vowelCount": 3,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1519,
+    "date": "2025-08-16",
+    "word": "QUITE",
+    "difficulty": "Hard",
+    "vowelCount": 3,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1518,
+    "date": "2025-08-15",
+    "word": "QUIRK",
+    "difficulty": "Hard",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1517,
+    "date": "2025-08-14",
+    "word": "QUILT",
+    "difficulty": "Hard",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1516,
+    "date": "2025-08-13",
+    "word": "QUILL",
+    "difficulty": "Hard",
+    "vowelCount": 2,
+    "uniqueLetters": 4,
+    "hasRepeats": true
+  },
+  {
+    "number": 1515,
+    "date": "2025-08-12",
+    "word": "QUIET",
+    "difficulty": "Hard",
+    "vowelCount": 3,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1514,
+    "date": "2025-08-11",
+    "word": "QUICK",
+    "difficulty": "Hard",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1513,
+    "date": "2025-08-10",
+    "word": "QUEUE",
+    "difficulty": "Hard",
+    "vowelCount": 4,
+    "uniqueLetters": 3,
+    "hasRepeats": true
+  },
+  {
+    "number": 1512,
+    "date": "2025-08-09",
+    "word": "QUEST",
+    "difficulty": "Hard",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1511,
+    "date": "2025-08-08",
+    "word": "QUERY",
+    "difficulty": "Hard",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1510,
+    "date": "2025-08-07",
+    "word": "QUELL",
+    "difficulty": "Hard",
+    "vowelCount": 2,
+    "uniqueLetters": 4,
+    "hasRepeats": true
+  },
+  {
+    "number": 1509,
+    "date": "2025-08-06",
+    "word": "QUEER",
+    "difficulty": "Hard",
+    "vowelCount": 3,
+    "uniqueLetters": 4,
+    "hasRepeats": true
+  },
+  {
+    "number": 1508,
+    "date": "2025-08-05",
+    "word": "QUEEN",
+    "difficulty": "Hard",
+    "vowelCount": 3,
+    "uniqueLetters": 4,
+    "hasRepeats": true
+  },
+  {
+    "number": 1507,
+    "date": "2025-08-04",
+    "word": "QUASI",
+    "difficulty": "Hard",
+    "vowelCount": 3,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1506,
+    "date": "2025-08-03",
+    "word": "QUASH",
+    "difficulty": "Hard",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1505,
+    "date": "2025-08-02",
+    "word": "QUART",
+    "difficulty": "Hard",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1504,
+    "date": "2025-08-01",
+    "word": "QUARK",
+    "difficulty": "Hard",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1503,
+    "date": "2025-07-31",
+    "word": "QUALM",
+    "difficulty": "Hard",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1502,
+    "date": "2025-07-30",
+    "word": "QUAKE",
+    "difficulty": "Hard",
+    "vowelCount": 3,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1501,
+    "date": "2025-07-29",
+    "word": "QUAIL",
+    "difficulty": "Hard",
+    "vowelCount": 3,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1500,
+    "date": "2025-07-28",
+    "word": "QUACK",
+    "difficulty": "Hard",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1499,
+    "date": "2025-07-27",
+    "word": "PYGMY",
+    "difficulty": "Hard",
+    "vowelCount": 0,
+    "uniqueLetters": 4,
+    "hasRepeats": true
+  },
+  {
+    "number": 1498,
+    "date": "2025-07-26",
+    "word": "PUTTY",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 4,
+    "hasRepeats": true
+  },
+  {
+    "number": 1497,
+    "date": "2025-07-25",
+    "word": "PUSHY",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1496,
+    "date": "2025-07-24",
+    "word": "PURSE",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1495,
+    "date": "2025-07-23",
+    "word": "PURGE",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1494,
+    "date": "2025-07-22",
+    "word": "PURER",
+    "difficulty": "Hard",
+    "vowelCount": 2,
+    "uniqueLetters": 4,
+    "hasRepeats": true
+  },
+  {
+    "number": 1493,
+    "date": "2025-07-21",
+    "word": "PUREE",
+    "difficulty": "Hard",
+    "vowelCount": 3,
+    "uniqueLetters": 4,
+    "hasRepeats": true
+  },
+  {
+    "number": 1492,
+    "date": "2025-07-20",
+    "word": "PUPPY",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 3,
+    "hasRepeats": true
+  },
+  {
+    "number": 1491,
+    "date": "2025-07-19",
+    "word": "PUPIL",
+    "difficulty": "Hard",
+    "vowelCount": 2,
+    "uniqueLetters": 4,
+    "hasRepeats": true
+  },
+  {
+    "number": 1490,
+    "date": "2025-07-18",
+    "word": "PUNCH",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1489,
+    "date": "2025-07-17",
+    "word": "PULSE",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1488,
+    "date": "2025-07-16",
+    "word": "PULPY",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 4,
+    "hasRepeats": true
+  },
+  {
+    "number": 1487,
+    "date": "2025-07-15",
+    "word": "PUFFY",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 4,
+    "hasRepeats": true
+  },
+  {
+    "number": 1486,
+    "date": "2025-07-14",
+    "word": "PUDGY",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1485,
+    "date": "2025-07-13",
+    "word": "PUBIC",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1484,
+    "date": "2025-07-12",
+    "word": "PSALM",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1483,
+    "date": "2025-07-11",
+    "word": "PRUNE",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1482,
+    "date": "2025-07-10",
+    "word": "PRUDE",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1481,
+    "date": "2025-07-09",
+    "word": "PROXY",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1480,
+    "date": "2025-07-08",
+    "word": "PROWL",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1479,
+    "date": "2025-07-07",
+    "word": "PROVE",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1478,
+    "date": "2025-07-06",
+    "word": "PROUD",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1477,
+    "date": "2025-07-05",
+    "word": "PROSE",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1476,
+    "date": "2025-07-04",
+    "word": "PROOF",
+    "difficulty": "Hard",
+    "vowelCount": 2,
+    "uniqueLetters": 4,
+    "hasRepeats": true
+  },
+  {
+    "number": 1475,
+    "date": "2025-07-03",
+    "word": "PRONG",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1474,
+    "date": "2025-07-02",
+    "word": "PRONE",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1473,
+    "date": "2025-07-01",
+    "word": "PROBE",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1472,
+    "date": "2025-06-30",
+    "word": "PRIZE",
+    "difficulty": "Hard",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1471,
+    "date": "2025-06-29",
+    "word": "PRIVY",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1470,
+    "date": "2025-06-28",
+    "word": "PRISM",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1469,
+    "date": "2025-06-27",
+    "word": "PRIOR",
+    "difficulty": "Hard",
+    "vowelCount": 2,
+    "uniqueLetters": 4,
+    "hasRepeats": true
+  },
+  {
+    "number": 1468,
+    "date": "2025-06-26",
+    "word": "PRINT",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1467,
+    "date": "2025-06-25",
+    "word": "PRIMO",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1466,
+    "date": "2025-06-24",
+    "word": "PRIME",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1465,
+    "date": "2025-06-23",
+    "word": "PRIED",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1464,
+    "date": "2025-06-22",
+    "word": "PRIDE",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1463,
+    "date": "2025-06-21",
+    "word": "PRICK",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1462,
+    "date": "2025-06-20",
+    "word": "PRICE",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1461,
+    "date": "2025-06-19",
+    "word": "PRESS",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 4,
+    "hasRepeats": true
+  },
+  {
+    "number": 1460,
+    "date": "2025-06-18",
+    "word": "PREEN",
+    "difficulty": "Hard",
+    "vowelCount": 2,
+    "uniqueLetters": 4,
+    "hasRepeats": true
+  },
+  {
+    "number": 1459,
+    "date": "2025-06-17",
+    "word": "PRAWN",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1458,
+    "date": "2025-06-16",
+    "word": "PRANK",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1457,
+    "date": "2025-06-15",
+    "word": "POWER",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1456,
+    "date": "2025-06-14",
+    "word": "POUTY",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1455,
+    "date": "2025-06-13",
+    "word": "POUND",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1454,
+    "date": "2025-06-12",
+    "word": "POUCH",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1453,
+    "date": "2025-06-11",
+    "word": "POSSE",
+    "difficulty": "Hard",
+    "vowelCount": 2,
+    "uniqueLetters": 4,
+    "hasRepeats": true
+  },
+  {
+    "number": 1452,
+    "date": "2025-06-10",
+    "word": "POSIT",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1451,
+    "date": "2025-06-09",
+    "word": "POSER",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1450,
+    "date": "2025-06-08",
+    "word": "PORCH",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1449,
+    "date": "2025-06-07",
+    "word": "POPPY",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 3,
+    "hasRepeats": true
+  },
+  {
+    "number": 1448,
+    "date": "2025-06-06",
+    "word": "POOCH",
+    "difficulty": "Hard",
+    "vowelCount": 2,
+    "uniqueLetters": 4,
+    "hasRepeats": true
+  },
+  {
+    "number": 1447,
+    "date": "2025-06-05",
+    "word": "POLYP",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 4,
+    "hasRepeats": true
+  },
+  {
+    "number": 1446,
+    "date": "2025-06-04",
+    "word": "POLKA",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1445,
+    "date": "2025-06-03",
+    "word": "POLAR",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1444,
+    "date": "2025-06-02",
+    "word": "POKER",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1443,
+    "date": "2025-06-01",
+    "word": "POISE",
+    "difficulty": "Easy",
+    "vowelCount": 3,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1442,
+    "date": "2025-05-31",
+    "word": "POINT",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1441,
+    "date": "2025-05-30",
+    "word": "POESY",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1440,
+    "date": "2025-05-29",
+    "word": "PLUSH",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1439,
+    "date": "2025-05-28",
+    "word": "PLUNK",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1438,
+    "date": "2025-05-27",
+    "word": "PLUMP",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 4,
+    "hasRepeats": true
+  },
+  {
+    "number": 1437,
+    "date": "2025-05-26",
+    "word": "PLUME",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1436,
+    "date": "2025-05-25",
+    "word": "PLUMB",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1435,
+    "date": "2025-05-24",
+    "word": "PLUCK",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1434,
+    "date": "2025-05-23",
+    "word": "PLIER",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1433,
+    "date": "2025-05-22",
+    "word": "PLIED",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1432,
+    "date": "2025-05-21",
+    "word": "PLEAT",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1431,
+    "date": "2025-05-20",
+    "word": "PLEAD",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1430,
+    "date": "2025-05-19",
+    "word": "PLAZA",
+    "difficulty": "Hard",
+    "vowelCount": 2,
+    "uniqueLetters": 4,
+    "hasRepeats": true
+  },
+  {
+    "number": 1429,
+    "date": "2025-05-18",
+    "word": "PLATE",
+    "difficulty": "Easy",
+    "vowelCount": 2,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1428,
+    "date": "2025-05-17",
+    "word": "PLANT",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  },
+  {
+    "number": 1427,
+    "date": "2025-05-16",
+    "word": "PLANK",
+    "difficulty": "Hard",
+    "vowelCount": 1,
+    "uniqueLetters": 5,
+    "hasRepeats": false
+  }
+]

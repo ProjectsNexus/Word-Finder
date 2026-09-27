@@ -1,0 +1,396 @@
+{
+  "length": 6,
+  "totalWords": 15788,
+  "repeatedPercent": 52.5,
+  "topOpenings": [
+    {
+      "pair": "RE",
+      "count": 453,
+      "percent": 2.9
+    },
+    {
+      "pair": "CO",
+      "count": 343,
+      "percent": 2.2
+    },
+    {
+      "pair": "CA",
+      "count": 283,
+      "percent": 1.8
+    },
+    {
+      "pair": "ST",
+      "count": 248,
+      "percent": 1.6
+    },
+    {
+      "pair": "MA",
+      "count": 244,
+      "percent": 1.5
+    },
+    {
+      "pair": "DE",
+      "count": 234,
+      "percent": 1.5
+    },
+    {
+      "pair": "PA",
+      "count": 227,
+      "percent": 1.4
+    },
+    {
+      "pair": "BA",
+      "count": 210,
+      "percent": 1.3
+    },
+    {
+      "pair": "CH",
+      "count": 207,
+      "percent": 1.3
+    },
+    {
+      "pair": "UN",
+      "count": 202,
+      "percent": 1.3
+    }
+  ],
+  "topEndings": [
+    {
+      "pair": "ED",
+      "count": 1542,
+      "percent": 9.8
+    },
+    {
+      "pair": "ER",
+      "count": 1313,
+      "percent": 8.3
+    },
+    {
+      "pair": "ES",
+      "count": 1112,
+      "percent": 7
+    },
+    {
+      "pair": "RS",
+      "count": 467,
+      "percent": 3
+    },
+    {
+      "pair": "NG",
+      "count": 415,
+      "percent": 2.6
+    },
+    {
+      "pair": "TS",
+      "count": 400,
+      "percent": 2.5
+    },
+    {
+      "pair": "LE",
+      "count": 362,
+      "percent": 2.3
+    },
+    {
+      "pair": "NS",
+      "count": 325,
+      "percent": 2.1
+    },
+    {
+      "pair": "LY",
+      "count": 320,
+      "percent": 2
+    },
+    {
+      "pair": "AS",
+      "count": 304,
+      "percent": 1.9
+    }
+  ],
+  "vowelSpread": [
+    {
+      "vowels": "0",
+      "count": 22,
+      "percent": 0.1
+    },
+    {
+      "vowels": "1",
+      "count": 1507,
+      "percent": 9.5
+    },
+    {
+      "vowels": "2",
+      "count": 9495,
+      "percent": 60.1
+    },
+    {
+      "vowels": "3",
+      "count": 4476,
+      "percent": 28.4
+    },
+    {
+      "vowels": "4+",
+      "count": 288,
+      "percent": 1.8
+    }
+  ],
+  "letterFrequency": [
+    {
+      "letter": "E",
+      "count": 11698,
+      "percent": 12.35,
+      "wordCoveragePercent": 60.77
+    },
+    {
+      "letter": "S",
+      "count": 8594,
+      "percent": 9.07,
+      "wordCoveragePercent": 45.52
+    },
+    {
+      "letter": "A",
+      "count": 7813,
+      "percent": 8.25,
+      "wordCoveragePercent": 43.25
+    },
+    {
+      "letter": "R",
+      "count": 6899,
+      "percent": 7.28,
+      "wordCoveragePercent": 39.7
+    },
+    {
+      "letter": "I",
+      "count": 6204,
+      "percent": 6.55,
+      "wordCoveragePercent": 36.15
+    },
+    {
+      "letter": "O",
+      "count": 5725,
+      "percent": 6.04,
+      "wordCoveragePercent": 31.55
+    },
+    {
+      "letter": "L",
+      "count": 5192,
+      "percent": 5.48,
+      "wordCoveragePercent": 29.67
+    },
+    {
+      "letter": "N",
+      "count": 5080,
+      "percent": 5.36,
+      "wordCoveragePercent": 29.4
+    },
+    {
+      "letter": "T",
+      "count": 5015,
+      "percent": 5.29,
+      "wordCoveragePercent": 28.36
+    },
+    {
+      "letter": "D",
+      "count": 4286,
+      "percent": 4.52,
+      "wordCoveragePercent": 24.32
+    },
+    {
+      "letter": "U",
+      "count": 3637,
+      "percent": 3.84,
+      "wordCoveragePercent": 21.91
+    },
+    {
+      "letter": "C",
+      "count": 3237,
+      "percent": 3.42,
+      "wordCoveragePercent": 19.09
+    },
+    {
+      "letter": "P",
+      "count": 2823,
+      "percent": 2.98,
+      "wordCoveragePercent": 16.16
+    },
+    {
+      "letter": "M",
+      "count": 2789,
+      "percent": 2.94,
+      "wordCoveragePercent": 16.37
+    },
+    {
+      "letter": "G",
+      "count": 2652,
+      "percent": 2.8,
+      "wordCoveragePercent": 15.11
+    },
+    {
+      "letter": "H",
+      "count": 2410,
+      "percent": 2.54,
+      "wordCoveragePercent": 14.76
+    },
+    {
+      "letter": "B",
+      "count": 2276,
+      "percent": 2.4,
+      "wordCoveragePercent": 12.93
+    },
+    {
+      "letter": "Y",
+      "count": 2053,
+      "percent": 2.17,
+      "wordCoveragePercent": 12.78
+    },
+    {
+      "letter": "F",
+      "count": 1460,
+      "percent": 1.54,
+      "wordCoveragePercent": 8.15
+    },
+    {
+      "letter": "K",
+      "count": 1454,
+      "percent": 1.53,
+      "wordCoveragePercent": 8.84
+    },
+    {
+      "letter": "W",
+      "count": 1170,
+      "percent": 1.24,
+      "wordCoveragePercent": 7.29
+    },
+    {
+      "letter": "V",
+      "count": 940,
+      "percent": 0.99,
+      "wordCoveragePercent": 5.78
+    },
+    {
+      "letter": "Z",
+      "count": 495,
+      "percent": 0.52,
+      "wordCoveragePercent": 2.73
+    },
+    {
+      "letter": "X",
+      "count": 339,
+      "percent": 0.36,
+      "wordCoveragePercent": 2.13
+    },
+    {
+      "letter": "J",
+      "count": 316,
+      "percent": 0.33,
+      "wordCoveragePercent": 1.96
+    },
+    {
+      "letter": "Q",
+      "count": 171,
+      "percent": 0.18,
+      "wordCoveragePercent": 1.08
+    }
+  ],
+  "bestStartingWords": [
+    {
+      "word": "ARIOSE",
+      "score": 42.82,
+      "uniqueLetters": 6
+    },
+    {
+      "word": "ARIELS",
+      "score": 42.51,
+      "uniqueLetters": 6
+    },
+    {
+      "word": "RESAIL",
+      "score": 42.51,
+      "uniqueLetters": 6
+    },
+    {
+      "word": "SAILER",
+      "score": 42.51,
+      "uniqueLetters": 6
+    },
+    {
+      "word": "SERAIL",
+      "score": 42.51,
+      "uniqueLetters": 6
+    },
+    {
+      "word": "SERIAL",
+      "score": 42.51,
+      "uniqueLetters": 6
+    },
+    {
+      "word": "ARISEN",
+      "score": 42.46,
+      "uniqueLetters": 6
+    },
+    {
+      "word": "ARSINE",
+      "score": 42.46,
+      "uniqueLetters": 6
+    },
+    {
+      "word": "AIREST",
+      "score": 42.29,
+      "uniqueLetters": 6
+    },
+    {
+      "word": "SATIRE",
+      "score": 42.29,
+      "uniqueLetters": 6
+    },
+    {
+      "word": "STRIAE",
+      "score": 42.29,
+      "uniqueLetters": 6
+    },
+    {
+      "word": "TERAIS",
+      "score": 42.29,
+      "uniqueLetters": 6
+    },
+    {
+      "word": "ARSENO",
+      "score": 41.7,
+      "uniqueLetters": 6
+    },
+    {
+      "word": "REASON",
+      "score": 41.7,
+      "uniqueLetters": 6
+    },
+    {
+      "word": "SENORA",
+      "score": 41.7,
+      "uniqueLetters": 6
+    },
+    {
+      "word": "AIDERS",
+      "score": 41.62,
+      "uniqueLetters": 6
+    },
+    {
+      "word": "DEAIRS",
+      "score": 41.62,
+      "uniqueLetters": 6
+    },
+    {
+      "word": "IRADES",
+      "score": 41.62,
+      "uniqueLetters": 6
+    },
+    {
+      "word": "RAISED",
+      "score": 41.62,
+      "uniqueLetters": 6
+    },
+    {
+      "word": "REDIAS",
+      "score": 41.62,
+      "uniqueLetters": 6
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Wordle Solver Pro – Fast Word Game & Letter Clue Solver",
+  "description": "Solve Wordle puzzles instantly with smart tile-clue & advanced pattern filtering, duplicate-letter precision, letter frequency analytics, and optimal next guesses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
