@@ -11,7 +11,7 @@
       "destination": "/robots.txt"
     },
     {
-      "source": "/((?!assets/|.*\\..*).*)",
+      "source": "/(.*)",
       "destination": "/index.html"
     }
   ]

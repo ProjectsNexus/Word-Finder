@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://wordlesolverpro.com/sitemap.xml
+Sitemap: https://royzacademia.com/sitemap.xml

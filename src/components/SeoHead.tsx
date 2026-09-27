@@ -31,7 +31,7 @@ export function SeoHead({ title, description, canonicalPath, faqList, jsonLdExtr
     setMetaTag('name', 'twitter:title', title);
     setMetaTag('name', 'twitter:description', description);
 
-    const origin = typeof window !== 'undefined' ? window.location.origin : 'https://wordlesolverpro.com';
+    const origin = typeof window !== 'undefined' ? window.location.origin : 'https://royzacademia.com';
     const fullUrl = `${origin}${canonicalPath}`;
     setMetaTag('property', 'og:url', fullUrl);
 
