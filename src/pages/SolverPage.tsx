@@ -2,6 +2,7 @@ import { useState, useMemo, useEffect } from 'react';
 import { GuessRow, TileColor, AdvancedFilters } from '../types/solver';
 import { getWordList, getStatsForLength } from '../data/wordLoader';
 import { filterCandidates } from '../utils/solverLogic';
+import { generateWordStats } from '../utils/generateWordStats';
 import { TileClueGrid } from '../components/TileClueGrid';
 import { VirtualKeyboard } from '../components/VirtualKeyboard';
 import { AdvancedFilterMode } from '../components/AdvancedFilterMode';
@@ -10,7 +11,7 @@ import { StatsBlock } from '../components/StatsBlock';
 import { FaqSection } from '../components/FaqSection';
 import { SeoHead } from '../components/SeoHead';
 import { Link } from '../utils/router';
-import { ShieldCheck, Sparkles, BookOpen } from 'lucide-react';
+import { ShieldCheck, Sparkles, BookOpen, BarChart3, Layers } from 'lucide-react';
 
 interface SolverPageProps {
   wordLength: number;
@@ -60,6 +61,15 @@ export function SolverPage({
   const candidates = useMemo(() => {
     return filterCandidates(wordList, wordLength, guesses, advancedFilters);
   }, [wordList, wordLength, guesses, advancedFilters]);
+
+  // Dynamically calculate word stats for current candidate word list using generateWordStats
+  const dynamicWordStats = useMemo(() => {
+    const currentWords = candidates.map(c => c.word);
+    return generateWordStats(currentWords, wordLength);
+  }, [candidates, wordLength]);
+
+  // Check if clues have filtered down the pool
+  const isFiltered = candidates.length > 0 && candidates.length < wordList.length;
 
   // Reset handler
   const handleReset = () => {
@@ -279,9 +289,77 @@ export function SolverPage({
           onSelectWord={handleSelectWord}
         />
 
+        {/* Dynamic Word Stats Dashboard for Active Filtered List */}
+        {isFiltered && dynamicWordStats.totalWords > 0 && (
+          <div className="bg-white border border-stone-200/90 rounded-2xl p-5 shadow-xs space-y-3">
+            <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-2 pb-2.5 border-b border-stone-100">
+              <div className="flex items-center gap-2">
+                <BarChart3 className="w-4 h-4 text-emerald-700" />
+                <h3 className="font-serif font-bold text-base text-stone-900">
+                  Dynamic Stats for Remaining {dynamicWordStats.totalWords.toLocaleString()} Candidates
+                </h3>
+                <span className="text-[10px] font-mono px-2 py-0.5 rounded bg-emerald-50 text-emerald-800 font-semibold border border-emerald-200/60">
+                  Calculated Live via generateWordStats
+                </span>
+              </div>
+              <div className="text-xs text-stone-500 font-mono">
+                {((dynamicWordStats.totalWords / wordList.length) * 100).toFixed(1)}% of base dictionary left
+              </div>
+            </div>
+
+            <div className="grid grid-cols-1 sm:grid-cols-3 gap-3 pt-1">
+              {/* Duplicate Letter Percentage in Current Filtered Pool */}
+              <div className="p-3 rounded-xl bg-stone-50/70 border border-stone-150 flex items-center justify-between">
+                <div>
+                  <span className="text-[11px] font-medium text-stone-600 block">Candidate Duplicate Letters</span>
+                  <span className="font-serif font-bold text-xl text-stone-900 tabular-nums">
+                    {dynamicWordStats.repeatedPercent}%
+                  </span>
+                </div>
+                <div className="text-right text-[11px] text-stone-500 font-mono">
+                  <span>{Math.round((dynamicWordStats.repeatedPercent / 100) * dynamicWordStats.totalWords)} of {dynamicWordStats.totalWords} words</span>
+                  <span className="block text-stone-400 text-[10px]">contain repeated letters</span>
+                </div>
+              </div>
+
+              {/* Dominant Letter in Current Pool */}
+              <div className="p-3 rounded-xl bg-stone-50/70 border border-stone-150 flex items-center justify-between">
+                <div>
+                  <span className="text-[11px] font-medium text-stone-600 block">Most Common Letter</span>
+                  <span className="font-mono font-bold text-xl text-stone-900">
+                    {dynamicWordStats.letterFrequency[0]?.letter || '—'}
+                  </span>
+                </div>
+                <div className="text-right text-[11px] text-stone-500 font-mono">
+                  <span>{dynamicWordStats.letterFrequency[0]?.wordCoveragePercent || 0}% presence</span>
+                  <span className="block text-stone-400 text-[10px]">in remaining pool</span>
+                </div>
+              </div>
+
+              {/* Top 5 Letters to Test Next */}
+              <div className="p-3 rounded-xl bg-stone-50/70 border border-stone-150">
+                <span className="text-[11px] font-medium text-stone-600 block mb-1">Top Letters to Test</span>
+                <div className="flex gap-1.5 flex-wrap">
+                  {dynamicWordStats.letterFrequency.slice(0, 5).map(item => (
+                    <span
+                      key={item.letter}
+                      className="px-2 py-0.5 rounded bg-white border border-stone-200 text-xs font-mono font-bold text-stone-900"
+                      title={`${item.letter}: ${item.wordCoveragePercent}% presence`}
+                    >
+                      {item.letter} <span className="text-[10px] font-normal text-stone-500">{item.wordCoveragePercent}%</span>
+                    </span>
+                  ))}
+                </div>
+              </div>
+            </div>
+          </div>
+        )}
+
         {/* Computed Linguistic Statistics Block */}
         <StatsBlock
           stats={stats}
+          candidateStats={dynamicWordStats}
+          isFiltered={isFiltered}
           onSelectWord={handleSelectWord}
         />
 
