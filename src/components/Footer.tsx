@@ -1,5 +1,6 @@
 import { Link } from '../utils/router';
 import { ShieldCheck, Cpu, Sparkles } from 'lucide-react';
+import { Logo } from './Logo';
 
 export function Footer() {
   return (
@@ -8,9 +9,10 @@ export function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8 mb-10">
           {/* Brand & Privacy Statement */}
           <div className="md:col-span-1 space-y-3">
-            <span className="font-serif font-bold text-lg text-stone-900 block">
-              Wordle Solver Pro
-            </span>
+            <Link href="/" className="inline-flex items-center gap-2.5 font-serif font-bold text-lg text-stone-900 group">
+              <Logo size={28} className="transition-transform group-hover:scale-105" />
+              <span>Wordle Solver Pro</span>
+            </Link>
             <p className="text-stone-500 leading-relaxed text-xs">
               Fast, privacy-first word solver and linguistic helper with mathematically verified duplicate-letter handling and maximum information gain.
             </p>

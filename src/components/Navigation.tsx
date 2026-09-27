@@ -1,6 +1,7 @@
 import { useState } from 'react';
 import { Link, useRouter } from '../utils/router';
 import { Menu, X, ChevronDown, Sparkles, BookOpen } from 'lucide-react';
+import { Logo } from './Logo';
 
 export function Navigation() {
   const { pathname, navigate } = useRouter();
@@ -34,12 +35,13 @@ export function Navigation() {
   return (
     <header className="sticky top-0 z-50 bg-[#F8F7F3]/95 backdrop-blur-md border-b border-stone-200/80 transition-colors">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-16 flex items-center justify-between gap-4">
-        {/* Zone 1: Single text element wordmark */}
+        {/* Zone 1: Brand logo + wordmark */}
         <Link 
           href="/" 
-          className="text-xl sm:text-2xl font-serif font-bold tracking-tight text-stone-900 hover:text-stone-700 transition-colors whitespace-nowrap"
+          className="flex items-center gap-2.5 text-xl sm:text-2xl font-serif font-bold tracking-tight text-stone-900 hover:text-stone-700 transition-colors whitespace-nowrap group"
         >
-          Wordle Solver Pro
+          <Logo size={34} className="transition-transform group-hover:scale-105" />
+          <span>Wordle Solver Pro</span>
         </Link>
 
         {/* Zone 2: 4–6 nav links, 1–2 word labels, single-line */}

@@ -1,0 +1,90 @@
+import React from 'react';
+
+interface LogoProps extends React.SVGProps<SVGSVGElement> {
+  size?: number | string;
+  className?: string;
+}
+
+export function Logo({ size = 36, className = '', ...props }: LogoProps) {
+  return (
+    <svg 
+      xmlns="http://www.w3.org/2000/svg" 
+      viewBox="0 0 500 500" 
+      width={size} 
+      height={size}
+      className={`inline-block shrink-0 ${className}`}
+      aria-label="Royz Academia Wordle Solver Logo"
+      {...props}
+    >
+      {/* Central Idea Sparks */}
+      <g stroke="#F58220" strokeWidth="9" strokeLinecap="round">
+        <line x1="185" y1="92" x2="202" y2="108" />
+        <line x1="215" y1="70" x2="220" y2="92" />
+        <line x1="248" y1="78" x2="238" y2="98" />
+      </g>
+
+      {/* Left Blue Puzzle Lightbulb */}
+      <g transform="translate(155, 96) rotate(-10, 36, 50)">
+        <path d="M 12,56 C 2,44 2,22 14,11 C 26,0 46,0 58,11 C 70,22 70,44 60,56 L 54,66 C 51,70 48,72 43,72 L 29,72 C 24,72 21,70 18,66 Z" fill="#2E86C1" />
+        <path d="M 36,2 C 36,18 28,20 28,26 C 28,32 40,32 40,26 C 40,20 36,18 36,70" fill="none" stroke="#FFFFFF" strokeWidth="3.5" strokeLinecap="round" strokeLinejoin="round" />
+        <path d="M 6,36 C 21,36 24,28 30,28 C 36,28 36,40 30,40 C 24,40 21,36 66,36" fill="none" stroke="#FFFFFF" strokeWidth="3.5" strokeLinecap="round" strokeLinejoin="round" />
+        <rect x="23" y="76" width="26" height="5" rx="2.5" fill="#2E86C1" />
+        <rect x="25" y="83" width="22" height="5" rx="2.5" fill="#2E86C1" />
+      </g>
+
+      {/* Right Blue Puzzle Lightbulb */}
+      <g transform="translate(275, 94) rotate(10, 36, 50)">
+        <path d="M 12,56 C 2,44 2,22 14,11 C 26,0 46,0 58,11 C 70,22 70,44 60,56 L 54,66 C 51,70 48,72 43,72 L 29,72 C 24,72 21,70 18,66 Z" fill="#2E86C1" />
+        <path d="M 36,2 C 36,18 28,20 28,26 C 28,32 40,32 40,26 C 40,20 36,18 36,70" fill="none" stroke="#FFFFFF" strokeWidth="3.5" strokeLinecap="round" strokeLinejoin="round" />
+        <path d="M 6,36 C 21,36 24,28 30,28 C 36,28 36,40 30,40 C 24,40 21,36 66,36" fill="none" stroke="#FFFFFF" strokeWidth="3.5" strokeLinecap="round" strokeLinejoin="round" />
+        <rect x="23" y="76" width="26" height="5" rx="2.5" fill="#2E86C1" />
+        <rect x="25" y="83" width="22" height="5" rx="2.5" fill="#2E86C1" />
+      </g>
+
+      {/* Center Orange Puzzle Lightbulb */}
+      <g transform="translate(201, 84)">
+        <path d="M 18,74 C 4,58 4,28 20,12 C 36,-4 64,-4 80,12 C 96,28 96,58 82,74 L 74,87 C 71,92 67,95 61,95 L 39,95 C 33,95 29,92 26,87 Z" fill="#F58220" />
+        <path d="M 50,2 C 50,22 41,25 41,33 C 41,41 54,41 54,33 C 54,25 50,22 50,93" fill="none" stroke="#FFFFFF" strokeWidth="4.5" strokeLinecap="round" strokeLinejoin="round" />
+        <path d="M 8,46 C 28,46 32,37 40,37 C 48,37 48,50 40,50 C 32,50 28,46 92,46" fill="none" stroke="#FFFFFF" strokeWidth="4.5" strokeLinecap="round" strokeLinejoin="round" />
+        <rect x="31" y="100" width="38" height="6.5" rx="3.2" fill="#F58220" />
+        <rect x="34" y="109" width="32" height="6.5" rx="3.2" fill="#F58220" />
+        <path d="M 40,118 C 40,125 60,125 60,118 Z" fill="#F58220" />
+      </g>
+
+      {/* Head Profile Silhouette Facing Right (Dark Navy) */}
+      <path 
+        fill="#172738" 
+        d="M 160,185 
+           C 136,215 125,250 125,295 
+           C 125,345 138,390 148,445 
+           L 270,445 
+           C 264,410 282,382 308,365 
+           C 328,370 342,370 346,358 
+           C 350,348 340,344 338,338 
+           C 346,332 352,324 348,312 
+           C 344,302 332,298 328,290 
+           C 342,280 354,258 360,235 
+           C 364,220 364,204 356,192 
+           C 346,174 326,170 312,170 
+           C 302,175 292,204 274,222 
+           C 254,242 228,256 195,256 
+           C 172,256 163,220 160,185 Z" 
+      />
+      <path 
+        fill="#172738" 
+        d="M 312,170 
+           C 330,195 352,228 358,260 
+           C 362,278 358,288 352,295 
+           C 362,300 372,312 368,324 
+           C 364,334 356,338 354,346 
+           C 352,354 360,358 358,368 
+           C 354,380 338,386 332,402 
+           C 326,418 330,432 334,445 
+           L 260,445 
+           C 275,410 282,375 295,350 
+           C 310,320 322,290 320,260 
+           C 318,225 310,185 312,170 Z" 
+      />
+    </svg>
+  );
+}
