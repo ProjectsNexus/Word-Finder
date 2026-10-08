@@ -47,7 +47,7 @@ export function NotFoundPage({ attemptedPath }: { attemptedPath: string }) {
             </Link>
 
             <Link
-              href="/wordle-solver-game/"
+              href="/wordle-solver-game"
               className="p-3 rounded-xl border border-stone-200 hover:border-stone-900 transition-colors flex items-center justify-between group"
             >
               <div>
@@ -58,7 +58,7 @@ export function NotFoundPage({ attemptedPath }: { attemptedPath: string }) {
             </Link>
 
             <Link
-              href="/tools/"
+              href="/tools"
               className="p-3 rounded-xl border border-stone-200 hover:border-stone-900 transition-colors flex items-center justify-between group"
             >
               <div>
@@ -69,7 +69,7 @@ export function NotFoundPage({ attemptedPath }: { attemptedPath: string }) {
             </Link>
 
             <Link
-              href="/word-finder/"
+              href="/word-finder"
               className="p-3 rounded-xl border border-stone-200 hover:border-stone-900 transition-colors flex items-center justify-between group"
             >
               <div>
@@ -80,7 +80,7 @@ export function NotFoundPage({ attemptedPath }: { attemptedPath: string }) {
             </Link>
 
             <Link
-              href="/blog/every-wordle-answer-ever/"
+              href="/blog/every-wordle-answer-ever"
               className="p-3 rounded-xl border border-stone-200 hover:border-stone-900 transition-colors flex items-center justify-between group"
             >
               <div>
@@ -91,7 +91,7 @@ export function NotFoundPage({ attemptedPath }: { attemptedPath: string }) {
             </Link>
 
             <Link
-              href="/sitemap/"
+              href="/sitemap"
               className="p-3 rounded-xl border border-stone-200 hover:border-stone-900 transition-colors flex items-center justify-between group"
             >
               <div>

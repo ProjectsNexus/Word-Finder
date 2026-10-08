@@ -1,0 +1,6 @@
+status=ok
+application=wordle-solver-pro
+domain=royzacademia.com
+timestamp=2026-10-04T05:56:00Z
+sitemap=https://royzacademia.com/sitemap.xml
+robots=https://royzacademia.com/robots.txt

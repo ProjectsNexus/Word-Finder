@@ -1,4 +1,22 @@
 User-agent: *
 Allow: /
 
+# Googlebot optimization
+User-agent: Googlebot
+Allow: /
+
+# Bingbot optimization
+User-agent: Bingbot
+Allow: /
+
+# Applebot optimization
+User-agent: Applebot
+Allow: /
+
+# Disallow build and private assets
+Disallow: /api/
+Disallow: /*?*fbclid=
+Disallow: /*?*utm_*
+
+# XML Sitemap reference
 Sitemap: https://royzacademia.com/sitemap.xml

@@ -40,7 +40,7 @@ export const allPages: PageDefinition[] = [
 
   // 2. Wordle Solver Game
   {
-    path: '/wordle-solver-game/',
+    path: '/wordle-solver-game',
     title: 'Wordle Solver Game – Play Wordle with Live AI Information Gain Solver',
     description: 'Play Wordle online with an interactive real-time solver assistant. Test your guesses against mathematical information gain and view remaining candidate words.',
     keywords: 'wordle solver game, play wordle online, wordle with solver, interactive wordle, wordle assistant game',
@@ -59,7 +59,7 @@ export const allPages: PageDefinition[] = [
 
   // 3. Tools Hub
   {
-    path: '/tools/',
+    path: '/tools',
     title: 'Wordle Solver Tools & Free Word Game Solvers Directory',
     description: 'Comprehensive directory of free Wordle solver tools for 3, 4, 5, 6, 7, and 8-letter boards. Filter words, analyze letter entropy, and solve any word puzzle.',
     keywords: 'wordle solver tools, wordle solver tool, free word game solvers directory, wordle word length solvers, wordle helper tools',
@@ -78,7 +78,7 @@ export const allPages: PageDefinition[] = [
 
   // 4. Word Finder
   {
-    path: '/word-finder/',
+    path: '/word-finder',
     title: 'Word Finder & Scrabble Anagram Solver – Filter 89,584 Words',
     description: 'Search dictionary words by pattern (_A__E), anagram letters, and exclusions. Calculate Scrabble points and optimal tile placement instantly.',
     keywords: 'word finder, anagram solver, scrabble word finder, pattern word search, unscramble words, blank tile solver',
@@ -97,7 +97,7 @@ export const allPages: PageDefinition[] = [
 
   // 5. Length-Specific Solvers
   {
-    path: '/wordle-solver-3-letter/',
+    path: '/wordle-solver-3-letter',
     title: '3-Letter Wordle Solver: Filter 1,015 Three-Letter Words',
     description: 'Fast, intelligent 3-letter Wordle solver. Filter 1,015 words with exact tile clues, anagram constraints, and information gain scoring.',
     keywords: '3 letter wordle solver, 3-letter word solver, three letter wordle solver, mini wordle solver',
@@ -110,7 +110,7 @@ export const allPages: PageDefinition[] = [
     ]
   },
   {
-    path: '/wordle-solver-4-letter/',
+    path: '/wordle-solver-4-letter',
     title: '4-Letter Wordle Solver: Filter 4,030 Four-Letter Words',
     description: 'Fast, intelligent 4-letter Wordle solver. Filter 4,030 words with exact tile clues, anagram constraints, and information gain scoring.',
     keywords: '4 letter wordle solver, 4-letter word solver, four letter wordle solver, mini wordle 4 letters',
@@ -123,14 +123,7 @@ export const allPages: PageDefinition[] = [
     ]
   },
   {
-    path: '/wordle-solver-5-letter/',
-    title: '5-Letter Wordle Solver: Official Wordle Solver Pro',
-    description: 'Solve official 5-letter Wordle puzzles instantly with smart tile-clue filtering, duplicate letter rules, and top next guesses.',
-    keywords: '5 letter wordle solver, official wordle solver, 5-letter word game helper, wordle 5 letters',
-    category: 'WebApplication'
-  },
-  {
-    path: '/wordle-solver-6-letter/',
+    path: '/wordle-solver-6-letter',
     title: 'Wordle Solver 6 Letters: Filter 15,788 Six-Letter Words',
     description: 'Fast, intelligent 6-letter Wordle solver. Filter 15,788 words with exact tile clues, anagram constraints, and information gain scoring.',
     keywords: 'wordle solver 6 letters, 6 letter wordle solver, hurdle solver 6 letters, six letter wordle helper',
@@ -143,7 +136,7 @@ export const allPages: PageDefinition[] = [
     ]
   },
   {
-    path: '/wordle-solver-7-letter/',
+    path: '/wordle-solver-7-letter',
     title: '7 Letter Wordle Solver: Filter 24,029 Seven-Letter Words',
     description: 'Fast, intelligent 7-letter Wordle solver. Filter 24,029 words with exact tile clues, anagram constraints, and information gain scoring.',
     keywords: '7 letter wordle solver, 7-letter word solver, seven letter wordle solver, long wordle solver',
@@ -156,7 +149,7 @@ export const allPages: PageDefinition[] = [
     ]
   },
   {
-    path: '/wordle-solver-8-letter/',
+    path: '/wordle-solver-8-letter',
     title: '8-Letter Wordle Solver: Filter 29,766 Eight-Letter Words',
     description: 'Fast, intelligent 8-letter Wordle solver. Filter 29,766 words with exact tile clues, anagram constraints, and information gain scoring.',
     keywords: '8 letter wordle solver, 8-letter word solver, eight letter wordle solver, master wordle solver',
@@ -171,7 +164,7 @@ export const allPages: PageDefinition[] = [
 
   // 6. Strategy & Editorial Guides
   {
-    path: '/blog/every-wordle-answer-ever/',
+    path: '/blog/every-wordle-answer-ever',
     title: 'Every Wordle Answer Ever (Updated Daily) – Complete Past Solutions Archive',
     description: 'Search every official Wordle answer ever released from puzzle #0 to today. Check past Wordle solutions, letter patterns, difficulty ratings, and today\'s Wordle answer.',
     keywords: 'every wordle answer ever, past wordle answers, wordle archive, list of wordle answers, previous wordle solutions, today\'s wordle answer',
@@ -188,7 +181,7 @@ export const allPages: PageDefinition[] = [
     ]
   },
   {
-    path: '/blog/best-wordle-starting-words/',
+    path: '/blog/best-wordle-starting-words',
     title: 'Best Wordle Starting Words (Ranked Mathematically by Information Gain)',
     description: 'Discover the best Wordle starting words ranked by information gain, letter frequency, and candidate elimination. Why SOARE, ROATE, and RAISE win.',
     keywords: 'best wordle starting words, best wordle opener, best word to start wordle, soare roate raise, mathematical wordle opening',
@@ -201,7 +194,7 @@ export const allPages: PageDefinition[] = [
     ]
   },
   {
-    path: '/blog/try-harder-wordle-solver/',
+    path: '/blog/try-harder-wordle-solver',
     title: 'Try Harder Wordle Solver: Hard Mode Strategies & Trap Elimination',
     description: 'Looking for a try harder Wordle solver? Master Wordle Hard Mode, conquer tricky 1-letter traps (_IGHT, _ATCH), and keep your winning streak alive.',
     keywords: 'try harder wordle solver, wordle hard mode solver, hard mode wordle strategy, wordle trap words, beat wordle hard mode',
@@ -218,7 +211,7 @@ export const allPages: PageDefinition[] = [
     ]
   },
   {
-    path: '/blog/best-wordle-solver-alternatives/',
+    path: '/blog/best-wordle-solver-alternatives',
     title: 'Best Wordle Solver Alternatives (Ranked & Compared)',
     description: 'Looking for the best Wordle solver alternative to Rock Paper Shotgun, Wordlesolver.online, or 5-letter-words? Compare features, privacy, and accuracy.',
     keywords: 'best wordle solver alternatives, rock paper shotgun wordle solver, wordlesolver online alternative, 5 letter words solver comparison',
@@ -231,7 +224,7 @@ export const allPages: PageDefinition[] = [
     ]
   },
   {
-    path: '/blog/how-wordle-solver-works/',
+    path: '/blog/how-wordle-solver-works',
     title: 'How Our Wordle Solver Works: The Math Behind the Algorithm',
     description: 'Learn how our Wordle solver algorithm calculates entropy, duplicate letter constraints, and candidate filtering in milliseconds.',
     keywords: 'how wordle solver works, wordle solver math, wordle entropy algorithm, duplicate letter wordle logic',
@@ -244,7 +237,7 @@ export const allPages: PageDefinition[] = [
     ]
   },
   {
-    path: '/sitemap/',
+    path: '/sitemap',
     title: 'Wordle Solver Pro – Complete URL Sitemap & Google Indexing Map',
     description: 'Comprehensive index of all 68 pages on Wordle Solver Pro with exact target search keywords, estimated monthly search volumes, and crawler priority.',
     keywords: 'wordle solver sitemap, wordle solver index, all wordle solver pages, royzacademia sitemap',
@@ -256,7 +249,7 @@ export const allPages: PageDefinition[] = [
 for (const char of alphabet) {
   const upper = char.toUpperCase();
   allPages.push({
-    path: `/five-letter-words/starting-with/${char}/`,
+    path: `/five-letter-words/starting-with/${char}`,
     title: `5-Letter Words Starting With ${upper}: Complete Filtered Word List`,
     description: `Comprehensive list of verified 5-letter English words starting with ${upper}. Filter by tile clues, duplicate letters, and find the perfect Wordle or Scrabble word.`,
     keywords: `5 letter words starting with ${char}, 5 letter words starting with ${upper}, five letter words start with ${upper}, wordle words starting with ${upper}`,
@@ -274,7 +267,7 @@ for (const char of alphabet) {
 for (const char of alphabet) {
   const upper = char.toUpperCase();
   allPages.push({
-    path: `/five-letter-words/containing/${char}/`,
+    path: `/five-letter-words/containing/${char}`,
     title: `5-Letter Words Containing ${upper}: Complete Filtered Word List`,
     description: `Comprehensive list of verified 5-letter English words containing the letter ${upper}. Filter by tile clues, duplicate letters, and find the perfect Wordle or Scrabble word.`,
     keywords: `5 letter words containing ${char}, 5 letter words containing ${upper}, five letter words with ${upper}, wordle words containing ${upper}`,
@@ -289,7 +282,8 @@ for (const char of alphabet) {
 }
 
 export function buildPageHtml(page: PageDefinition, headAssets: string, bodyScript: string): string {
-  const canonicalUrl = `${DOMAIN}${page.path}`;
+  const cleanPath = page.path.replace(/^\//, '').replace(/\/$/, '');
+  const canonicalUrl = cleanPath ? `${DOMAIN}/${cleanPath}` : `${DOMAIN}/`;
   const faqsJson = page.faqList && page.faqList.length > 0 ? {
     "@context": "https://schema.org",
     "@type": "FAQPage",

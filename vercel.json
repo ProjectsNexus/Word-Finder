@@ -1,5 +1,17 @@
 {
   "trailingSlash": false,
+  "redirects": [
+    {
+      "source": "/wordle-solver-5-letter",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/wordle-solver-5-letter/",
+      "destination": "/",
+      "permanent": true
+    }
+  ],
   "headers": [
     {
       "source": "/sitemap.xml",
@@ -28,6 +40,19 @@
       ]
     },
     {
+      "source": "/reboot.txt",
+      "headers": [
+        {
+          "key": "Content-Type",
+          "value": "text/plain; charset=utf-8"
+        },
+        {
+          "key": "Cache-Control",
+          "value": "no-cache, no-store, must-revalidate"
+        }
+      ]
+    },
+    {
       "source": "/logo.svg",
       "headers": [
         {
@@ -48,7 +73,7 @@
   ],
   "rewrites": [
     {
-      "source": "/((?!assets/|sitemap\\.xml|robots\\.txt|logo\\.svg|favicon\\.svg|.*\\.[\\w]+$).*)",
+      "source": "/((?!assets/|sitemap\\.xml|robots\\.txt|reboot\\.txt|logo\\.svg|favicon\\.svg|.*\\.[\\w]+$).*)",
       "destination": "/index.html"
     }
   ]

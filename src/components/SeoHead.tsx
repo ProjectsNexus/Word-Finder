@@ -9,6 +9,16 @@ interface SeoHeadProps {
   jsonLdExtra?: Record<string, any>;
 }
 
+const CANONICAL_DOMAIN = 'https://royzacademia.com';
+
+export function normalizeCanonical(path: string): string {
+  if (!path || path === '/' || path === '') {
+    return `${CANONICAL_DOMAIN}/`;
+  }
+  const clean = path.replace(/^\/+/, '').replace(/\/+$/, '');
+  return `${CANONICAL_DOMAIN}/${clean}`;
+}
+
 export function SeoHead({ title, description, canonicalPath, faqList, jsonLdExtra }: SeoHeadProps) {
   useEffect(() => {
     // 1. Update Title
@@ -31,8 +41,8 @@ export function SeoHead({ title, description, canonicalPath, faqList, jsonLdExtr
     setMetaTag('name', 'twitter:title', title);
     setMetaTag('name', 'twitter:description', description);
 
-    const origin = typeof window !== 'undefined' ? window.location.origin : 'https://royzacademia.com';
-    const fullUrl = `${origin}${canonicalPath}`;
+    // Strictly enforce canonical domain and trailing slash
+    const fullUrl = normalizeCanonical(canonicalPath);
     setMetaTag('property', 'og:url', fullUrl);
 
     // Canonical link

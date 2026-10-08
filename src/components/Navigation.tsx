@@ -10,20 +10,20 @@ export function Navigation() {
 
   const navLinks = [
     { label: '5-Letter', href: '/' },
-    { label: 'Game Mode', href: '/wordle-solver-game/' },
-    { label: 'Word Finder', href: '/word-finder/' },
-    { label: 'Past Answers', href: '/blog/every-wordle-answer-ever/' },
-    { label: 'Strategy', href: '/blog/best-wordle-starting-words/' },
-    { label: 'Tools', href: '/tools/' },
+    { label: 'Game Mode', href: '/wordle-solver-game' },
+    { label: 'Word Finder', href: '/word-finder' },
+    { label: 'Past Answers', href: '/blog/every-wordle-answer-ever' },
+    { label: 'Strategy', href: '/blog/best-wordle-starting-words' },
+    { label: 'Tools', href: '/tools' },
   ];
 
   const boardLengths = [
-    { label: '3-Letter Solver', href: '/wordle-solver-3-letter/' },
-    { label: '4-Letter Solver', href: '/wordle-solver-4-letter/' },
+    { label: '3-Letter Solver', href: '/wordle-solver-3-letter' },
+    { label: '4-Letter Solver', href: '/wordle-solver-4-letter' },
     { label: '5-Letter Solver (Standard)', href: '/' },
-    { label: '6-Letter Solver', href: '/wordle-solver-6-letter/' },
-    { label: '7-Letter Solver', href: '/wordle-solver-7-letter/' },
-    { label: '8-Letter Solver', href: '/wordle-solver-8-letter/' },
+    { label: '6-Letter Solver', href: '/wordle-solver-6-letter' },
+    { label: '7-Letter Solver', href: '/wordle-solver-7-letter' },
+    { label: '8-Letter Solver', href: '/wordle-solver-8-letter' },
   ];
 
   const handleNavClick = (href: string) => {
@@ -118,7 +118,7 @@ export function Navigation() {
 
           {/* Quick Solve CTA button */}
           <Link
-            href="/wordle-solver-game/"
+            href="/wordle-solver-game"
             className="hidden sm:inline-flex items-center gap-1.5 px-3.5 py-1.5 text-xs font-medium rounded-lg bg-stone-900 text-stone-50 hover:bg-stone-800 transition-colors whitespace-nowrap shadow-sm"
           >
             <Sparkles className="w-3.5 h-3.5 text-amber-300" />

@@ -50,19 +50,30 @@ function AppContent() {
 
   // 5. Board length solvers:
   if (normPath === '/wordle-solver-3-letter') {
-    return <SolverPage wordLength={3} routePath="/wordle-solver-3-letter/" />;
+    return <SolverPage wordLength={3} routePath="/wordle-solver-3-letter" />;
   }
   if (normPath === '/wordle-solver-4-letter') {
-    return <SolverPage wordLength={4} routePath="/wordle-solver-4-letter/" />;
+    return <SolverPage wordLength={4} routePath="/wordle-solver-4-letter" />;
   }
   if (normPath === '/wordle-solver-5-letter') {
-    return <SolverPage wordLength={5} routePath="/" />;
+    if (typeof window !== 'undefined') {
+      window.history.replaceState(null, '', '/');
+    }
+    return (
+      <SolverPage
+        wordLength={5}
+        routePath="/"
+        customTitle="Wordle Solver & Wordle Solver Pro – Fast Word Game & Letter Clue Solver"
+        customH1="Wordle Solver & Wordle Solver Pro"
+        customSubtitle="Type your guess, click any tile to toggle its clue color (gray, yellow, green), and instantly filter 14,855 candidate words with exact duplicate letter handling."
+      />
+    );
   }
   if (normPath === '/wordle-solver-6-letter') {
     return (
       <SolverPage
         wordLength={6}
-        routePath="/wordle-solver-6-letter/"
+        routePath="/wordle-solver-6-letter"
         customTitle="Wordle Solver 6 Letters: Filter 15,788 Six-Letter Words"
         customH1="6-Letter Wordle Solver (Wordle Solver 6 Letters)"
       />
@@ -72,14 +83,14 @@ function AppContent() {
     return (
       <SolverPage
         wordLength={7}
-        routePath="/wordle-solver-7-letter/"
+        routePath="/wordle-solver-7-letter"
         customTitle="7 Letter Wordle Solver: Filter 24,029 Seven-Letter Words"
         customH1="7-Letter Wordle Solver (7 Letter Wordle Solver)"
       />
     );
   }
   if (normPath === '/wordle-solver-8-letter') {
-    return <SolverPage wordLength={8} routePath="/wordle-solver-8-letter/" />;
+    return <SolverPage wordLength={8} routePath="/wordle-solver-8-letter" />;
   }
 
   // 6. Letter browser: /five-letter-words/starting-with/:letter

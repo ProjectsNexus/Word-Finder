@@ -91,21 +91,21 @@ export function FaqSection({ wordLength, faqs }: FaqSectionProps) {
       <div className="mt-8 p-4 rounded-xl bg-stone-100/70 border border-stone-200 text-xs text-stone-600">
         <div className="font-semibold text-stone-800 mb-2">Explore Other Board Solvers & Strategy Guides:</div>
         <div className="flex flex-wrap gap-x-3 gap-y-1.5 text-stone-700">
-          <Link href="/wordle-solver-3-letter/" className="hover:text-stone-950 underline underline-offset-2">3-Letter Solver</Link>
+          <Link href="/wordle-solver-3-letter" className="hover:text-stone-950 underline underline-offset-2">3-Letter Solver</Link>
           <span aria-hidden="true">·</span>
-          <Link href="/wordle-solver-4-letter/" className="hover:text-stone-950 underline underline-offset-2">4-Letter Solver</Link>
+          <Link href="/wordle-solver-4-letter" className="hover:text-stone-950 underline underline-offset-2">4-Letter Solver</Link>
           <span aria-hidden="true">·</span>
           <Link href="/" className="hover:text-stone-950 underline underline-offset-2">5-Letter Solver (Wordle)</Link>
           <span aria-hidden="true">·</span>
-          <Link href="/wordle-solver-6-letter/" className="hover:text-stone-950 underline underline-offset-2">6-Letter Solver</Link>
+          <Link href="/wordle-solver-6-letter" className="hover:text-stone-950 underline underline-offset-2">6-Letter Solver</Link>
           <span aria-hidden="true">·</span>
-          <Link href="/wordle-solver-7-letter/" className="hover:text-stone-950 underline underline-offset-2">7-Letter Solver</Link>
+          <Link href="/wordle-solver-7-letter" className="hover:text-stone-950 underline underline-offset-2">7-Letter Solver</Link>
           <span aria-hidden="true">·</span>
-          <Link href="/wordle-solver-8-letter/" className="hover:text-stone-950 underline underline-offset-2">8-Letter Solver</Link>
+          <Link href="/wordle-solver-8-letter" className="hover:text-stone-950 underline underline-offset-2">8-Letter Solver</Link>
           <span aria-hidden="true">·</span>
-          <Link href="/tools/" className="hover:text-stone-950 underline underline-offset-2 font-medium">All Solver Tools</Link>
+          <Link href="/tools" className="hover:text-stone-950 underline underline-offset-2 font-medium">All Solver Tools</Link>
           <span aria-hidden="true">·</span>
-          <Link href="/blog/how-wordle-solver-works/" className="hover:text-stone-950 underline underline-offset-2 font-medium">How Algorithm Works</Link>
+          <Link href="/blog/how-wordle-solver-works" className="hover:text-stone-950 underline underline-offset-2 font-medium">How Algorithm Works</Link>
         </div>
       </div>
     </section>

@@ -15,7 +15,7 @@
     "wordCount": "14,855"
   },
   {
-    "loc": "/wordle-solver-game/",
+    "loc": "/wordle-solver-game",
     "priority": "0.9",
     "changefreq": "daily",
     "primaryKeyword": "wordle solver game",
@@ -29,7 +29,7 @@
     "wordCount": "14,855"
   },
   {
-    "loc": "/tools/",
+    "loc": "/tools",
     "priority": "0.9",
     "changefreq": "weekly",
     "primaryKeyword": "wordle solver tools",
@@ -43,7 +43,7 @@
     "wordCount": "89,584"
   },
   {
-    "loc": "/wordle-solver-7-letter/",
+    "loc": "/wordle-solver-7-letter",
     "priority": "0.9",
     "changefreq": "weekly",
     "primaryKeyword": "7 letter wordle solver",
@@ -57,7 +57,7 @@
     "wordCount": "24,029"
   },
   {
-    "loc": "/wordle-solver-6-letter/",
+    "loc": "/wordle-solver-6-letter",
     "priority": "0.8",
     "changefreq": "weekly",
     "primaryKeyword": "wordle solver 6 letters",
@@ -71,7 +71,7 @@
     "wordCount": "15,788"
   },
   {
-    "loc": "/wordle-solver-4-letter/",
+    "loc": "/wordle-solver-4-letter",
     "priority": "0.8",
     "changefreq": "weekly",
     "primaryKeyword": "4 letter wordle solver",
@@ -85,7 +85,7 @@
     "wordCount": "4,030"
   },
   {
-    "loc": "/wordle-solver-3-letter/",
+    "loc": "/wordle-solver-3-letter",
     "priority": "0.7",
     "changefreq": "weekly",
     "primaryKeyword": "3 letter wordle solver",
@@ -99,7 +99,7 @@
     "wordCount": "1,015"
   },
   {
-    "loc": "/wordle-solver-8-letter/",
+    "loc": "/wordle-solver-8-letter",
     "priority": "0.8",
     "changefreq": "weekly",
     "primaryKeyword": "8 letter wordle solver",
@@ -113,7 +113,7 @@
     "wordCount": "29,766"
   },
   {
-    "loc": "/word-finder/",
+    "loc": "/word-finder",
     "priority": "0.9",
     "changefreq": "weekly",
     "primaryKeyword": "word finder",
@@ -127,7 +127,7 @@
     "wordCount": "89,584"
   },
   {
-    "loc": "/blog/every-wordle-answer-ever/",
+    "loc": "/blog/every-wordle-answer-ever",
     "priority": "0.95",
     "changefreq": "daily",
     "primaryKeyword": "every wordle answer ever",
@@ -142,7 +142,7 @@
     "wordCount": "1,926+ solutions"
   },
   {
-    "loc": "/blog/best-wordle-starting-words/",
+    "loc": "/blog/best-wordle-starting-words",
     "priority": "0.85",
     "changefreq": "weekly",
     "primaryKeyword": "best wordle starting words",
@@ -156,7 +156,7 @@
     "wordCount": "1,800 words"
   },
   {
-    "loc": "/blog/how-wordle-solver-works/",
+    "loc": "/blog/how-wordle-solver-works",
     "priority": "0.8",
     "changefreq": "monthly",
     "primaryKeyword": "how wordle solver works",
@@ -170,7 +170,7 @@
     "wordCount": "1,500 words"
   },
   {
-    "loc": "/blog/try-harder-wordle-solver/",
+    "loc": "/blog/try-harder-wordle-solver",
     "priority": "0.85",
     "changefreq": "weekly",
     "primaryKeyword": "try harder wordle solver",
@@ -184,7 +184,7 @@
     "wordCount": "1,400 words"
   },
   {
-    "loc": "/blog/best-wordle-solver-alternatives/",
+    "loc": "/blog/best-wordle-solver-alternatives",
     "priority": "0.85",
     "changefreq": "monthly",
     "primaryKeyword": "rock paper shotgun wordle solver",
@@ -198,7 +198,7 @@
     "wordCount": "1,650 words"
   },
   {
-    "loc": "/sitemap/",
+    "loc": "/sitemap",
     "priority": "0.7",
     "changefreq": "weekly",
     "primaryKeyword": "wordle solver sitemap index",
@@ -212,7 +212,7 @@
     "wordCount": "All Pages"
   },
   {
-    "loc": "/five-letter-words/starting-with/a/",
+    "loc": "/five-letter-words/starting-with/a",
     "priority": "0.75",
     "changefreq": "monthly",
     "primaryKeyword": "5 letter words starting with A",
@@ -225,7 +225,7 @@
     "wordCount": "Filtered"
   },
   {
-    "loc": "/five-letter-words/starting-with/b/",
+    "loc": "/five-letter-words/starting-with/b",
     "priority": "0.75",
     "changefreq": "monthly",
     "primaryKeyword": "5 letter words starting with B",
@@ -238,7 +238,7 @@
     "wordCount": "Filtered"
   },
   {
-    "loc": "/five-letter-words/starting-with/c/",
+    "loc": "/five-letter-words/starting-with/c",
     "priority": "0.75",
     "changefreq": "monthly",
     "primaryKeyword": "5 letter words starting with C",
@@ -251,7 +251,7 @@
     "wordCount": "Filtered"
   },
   {
-    "loc": "/five-letter-words/starting-with/d/",
+    "loc": "/five-letter-words/starting-with/d",
     "priority": "0.75",
     "changefreq": "monthly",
     "primaryKeyword": "5 letter words starting with D",
@@ -264,7 +264,7 @@
     "wordCount": "Filtered"
   },
   {
-    "loc": "/five-letter-words/starting-with/e/",
+    "loc": "/five-letter-words/starting-with/e",
     "priority": "0.75",
     "changefreq": "monthly",
     "primaryKeyword": "5 letter words starting with E",
@@ -277,7 +277,7 @@
     "wordCount": "Filtered"
   },
   {
-    "loc": "/five-letter-words/starting-with/f/",
+    "loc": "/five-letter-words/starting-with/f",
     "priority": "0.75",
     "changefreq": "monthly",
     "primaryKeyword": "5 letter words starting with F",
@@ -290,7 +290,7 @@
     "wordCount": "Filtered"
   },
   {
-    "loc": "/five-letter-words/starting-with/g/",
+    "loc": "/five-letter-words/starting-with/g",
     "priority": "0.75",
     "changefreq": "monthly",
     "primaryKeyword": "5 letter words starting with G",
@@ -303,7 +303,7 @@
     "wordCount": "Filtered"
   },
   {
-    "loc": "/five-letter-words/starting-with/h/",
+    "loc": "/five-letter-words/starting-with/h",
     "priority": "0.75",
     "changefreq": "monthly",
     "primaryKeyword": "5 letter words starting with H",
@@ -316,7 +316,7 @@
     "wordCount": "Filtered"
   },
   {
-    "loc": "/five-letter-words/starting-with/i/",
+    "loc": "/five-letter-words/starting-with/i",
     "priority": "0.75",
     "changefreq": "monthly",
     "primaryKeyword": "5 letter words starting with I",
@@ -329,7 +329,7 @@
     "wordCount": "Filtered"
   },
   {
-    "loc": "/five-letter-words/starting-with/j/",
+    "loc": "/five-letter-words/starting-with/j",
     "priority": "0.75",
     "changefreq": "monthly",
     "primaryKeyword": "5 letter words starting with J",
@@ -342,7 +342,7 @@
     "wordCount": "Filtered"
   },
   {
-    "loc": "/five-letter-words/starting-with/k/",
+    "loc": "/five-letter-words/starting-with/k",
     "priority": "0.75",
     "changefreq": "monthly",
     "primaryKeyword": "5 letter words starting with K",
@@ -355,7 +355,7 @@
     "wordCount": "Filtered"
   },
   {
-    "loc": "/five-letter-words/starting-with/l/",
+    "loc": "/five-letter-words/starting-with/l",
     "priority": "0.75",
     "changefreq": "monthly",
     "primaryKeyword": "5 letter words starting with L",
@@ -368,7 +368,7 @@
     "wordCount": "Filtered"
   },
   {
-    "loc": "/five-letter-words/starting-with/m/",
+    "loc": "/five-letter-words/starting-with/m",
     "priority": "0.75",
     "changefreq": "monthly",
     "primaryKeyword": "5 letter words starting with M",
@@ -381,7 +381,7 @@
     "wordCount": "Filtered"
   },
   {
-    "loc": "/five-letter-words/starting-with/n/",
+    "loc": "/five-letter-words/starting-with/n",
     "priority": "0.75",
     "changefreq": "monthly",
     "primaryKeyword": "5 letter words starting with N",
@@ -394,7 +394,7 @@
     "wordCount": "Filtered"
   },
   {
-    "loc": "/five-letter-words/starting-with/o/",
+    "loc": "/five-letter-words/starting-with/o",
     "priority": "0.75",
     "changefreq": "monthly",
     "primaryKeyword": "5 letter words starting with O",
@@ -407,7 +407,7 @@
     "wordCount": "Filtered"
   },
   {
-    "loc": "/five-letter-words/starting-with/p/",
+    "loc": "/five-letter-words/starting-with/p",
     "priority": "0.75",
     "changefreq": "monthly",
     "primaryKeyword": "5 letter words starting with P",
@@ -420,7 +420,7 @@
     "wordCount": "Filtered"
   },
   {
-    "loc": "/five-letter-words/starting-with/q/",
+    "loc": "/five-letter-words/starting-with/q",
     "priority": "0.75",
     "changefreq": "monthly",
     "primaryKeyword": "5 letter words starting with Q",
@@ -433,7 +433,7 @@
     "wordCount": "Filtered"
   },
   {
-    "loc": "/five-letter-words/starting-with/r/",
+    "loc": "/five-letter-words/starting-with/r",
     "priority": "0.75",
     "changefreq": "monthly",
     "primaryKeyword": "5 letter words starting with R",
@@ -446,7 +446,7 @@
     "wordCount": "Filtered"
   },
   {
-    "loc": "/five-letter-words/starting-with/s/",
+    "loc": "/five-letter-words/starting-with/s",
     "priority": "0.75",
     "changefreq": "monthly",
     "primaryKeyword": "5 letter words starting with S",
@@ -459,7 +459,7 @@
     "wordCount": "Filtered"
   },
   {
-    "loc": "/five-letter-words/starting-with/t/",
+    "loc": "/five-letter-words/starting-with/t",
     "priority": "0.75",
     "changefreq": "monthly",
     "primaryKeyword": "5 letter words starting with T",
@@ -472,7 +472,7 @@
     "wordCount": "Filtered"
   },
   {
-    "loc": "/five-letter-words/starting-with/u/",
+    "loc": "/five-letter-words/starting-with/u",
     "priority": "0.75",
     "changefreq": "monthly",
     "primaryKeyword": "5 letter words starting with U",
@@ -485,7 +485,7 @@
     "wordCount": "Filtered"
   },
   {
-    "loc": "/five-letter-words/starting-with/v/",
+    "loc": "/five-letter-words/starting-with/v",
     "priority": "0.75",
     "changefreq": "monthly",
     "primaryKeyword": "5 letter words starting with V",
@@ -498,7 +498,7 @@
     "wordCount": "Filtered"
   },
   {
-    "loc": "/five-letter-words/starting-with/w/",
+    "loc": "/five-letter-words/starting-with/w",
     "priority": "0.75",
     "changefreq": "monthly",
     "primaryKeyword": "5 letter words starting with W",
@@ -511,7 +511,7 @@
     "wordCount": "Filtered"
   },
   {
-    "loc": "/five-letter-words/starting-with/x/",
+    "loc": "/five-letter-words/starting-with/x",
     "priority": "0.75",
     "changefreq": "monthly",
     "primaryKeyword": "5 letter words starting with X",
@@ -524,7 +524,7 @@
     "wordCount": "Filtered"
   },
   {
-    "loc": "/five-letter-words/starting-with/y/",
+    "loc": "/five-letter-words/starting-with/y",
     "priority": "0.75",
     "changefreq": "monthly",
     "primaryKeyword": "5 letter words starting with Y",
@@ -537,7 +537,7 @@
     "wordCount": "Filtered"
   },
   {
-    "loc": "/five-letter-words/starting-with/z/",
+    "loc": "/five-letter-words/starting-with/z",
     "priority": "0.75",
     "changefreq": "monthly",
     "primaryKeyword": "5 letter words starting with Z",
@@ -550,7 +550,7 @@
     "wordCount": "Filtered"
   },
   {
-    "loc": "/five-letter-words/containing/a/",
+    "loc": "/five-letter-words/containing/a",
     "priority": "0.7",
     "changefreq": "monthly",
     "primaryKeyword": "5 letter words containing A",
@@ -563,7 +563,7 @@
     "wordCount": "Filtered"
   },
   {
-    "loc": "/five-letter-words/containing/b/",
+    "loc": "/five-letter-words/containing/b",
     "priority": "0.7",
     "changefreq": "monthly",
     "primaryKeyword": "5 letter words containing B",
@@ -576,7 +576,7 @@
     "wordCount": "Filtered"
   },
   {
-    "loc": "/five-letter-words/containing/c/",
+    "loc": "/five-letter-words/containing/c",
     "priority": "0.7",
     "changefreq": "monthly",
     "primaryKeyword": "5 letter words containing C",
@@ -589,7 +589,7 @@
     "wordCount": "Filtered"
   },
   {
-    "loc": "/five-letter-words/containing/d/",
+    "loc": "/five-letter-words/containing/d",
     "priority": "0.7",
     "changefreq": "monthly",
     "primaryKeyword": "5 letter words containing D",
@@ -602,7 +602,7 @@
     "wordCount": "Filtered"
   },
   {
-    "loc": "/five-letter-words/containing/e/",
+    "loc": "/five-letter-words/containing/e",
     "priority": "0.7",
     "changefreq": "monthly",
     "primaryKeyword": "5 letter words containing E",
@@ -615,7 +615,7 @@
     "wordCount": "Filtered"
   },
   {
-    "loc": "/five-letter-words/containing/f/",
+    "loc": "/five-letter-words/containing/f",
     "priority": "0.7",
     "changefreq": "monthly",
     "primaryKeyword": "5 letter words containing F",
@@ -628,7 +628,7 @@
     "wordCount": "Filtered"
   },
   {
-    "loc": "/five-letter-words/containing/g/",
+    "loc": "/five-letter-words/containing/g",
     "priority": "0.7",
     "changefreq": "monthly",
     "primaryKeyword": "5 letter words containing G",
@@ -641,7 +641,7 @@
     "wordCount": "Filtered"
   },
   {
-    "loc": "/five-letter-words/containing/h/",
+    "loc": "/five-letter-words/containing/h",
     "priority": "0.7",
     "changefreq": "monthly",
     "primaryKeyword": "5 letter words containing H",
@@ -654,7 +654,7 @@
     "wordCount": "Filtered"
   },
   {
-    "loc": "/five-letter-words/containing/i/",
+    "loc": "/five-letter-words/containing/i",
     "priority": "0.7",
     "changefreq": "monthly",
     "primaryKeyword": "5 letter words containing I",
@@ -667,7 +667,7 @@
     "wordCount": "Filtered"
   },
   {
-    "loc": "/five-letter-words/containing/j/",
+    "loc": "/five-letter-words/containing/j",
     "priority": "0.7",
     "changefreq": "monthly",
     "primaryKeyword": "5 letter words containing J",
@@ -680,7 +680,7 @@
     "wordCount": "Filtered"
   },
   {
-    "loc": "/five-letter-words/containing/k/",
+    "loc": "/five-letter-words/containing/k",
     "priority": "0.7",
     "changefreq": "monthly",
     "primaryKeyword": "5 letter words containing K",
@@ -693,7 +693,7 @@
     "wordCount": "Filtered"
   },
   {
-    "loc": "/five-letter-words/containing/l/",
+    "loc": "/five-letter-words/containing/l",
     "priority": "0.7",
     "changefreq": "monthly",
     "primaryKeyword": "5 letter words containing L",
@@ -706,7 +706,7 @@
     "wordCount": "Filtered"
   },
   {
-    "loc": "/five-letter-words/containing/m/",
+    "loc": "/five-letter-words/containing/m",
     "priority": "0.7",
     "changefreq": "monthly",
     "primaryKeyword": "5 letter words containing M",
@@ -719,7 +719,7 @@
     "wordCount": "Filtered"
   },
   {
-    "loc": "/five-letter-words/containing/n/",
+    "loc": "/five-letter-words/containing/n",
     "priority": "0.7",
     "changefreq": "monthly",
     "primaryKeyword": "5 letter words containing N",
@@ -732,7 +732,7 @@
     "wordCount": "Filtered"
   },
   {
-    "loc": "/five-letter-words/containing/o/",
+    "loc": "/five-letter-words/containing/o",
     "priority": "0.7",
     "changefreq": "monthly",
     "primaryKeyword": "5 letter words containing O",
@@ -745,7 +745,7 @@
     "wordCount": "Filtered"
   },
   {
-    "loc": "/five-letter-words/containing/p/",
+    "loc": "/five-letter-words/containing/p",
     "priority": "0.7",
     "changefreq": "monthly",
     "primaryKeyword": "5 letter words containing P",
@@ -758,7 +758,7 @@
     "wordCount": "Filtered"
   },
   {
-    "loc": "/five-letter-words/containing/q/",
+    "loc": "/five-letter-words/containing/q",
     "priority": "0.7",
     "changefreq": "monthly",
     "primaryKeyword": "5 letter words containing Q",
@@ -771,7 +771,7 @@
     "wordCount": "Filtered"
   },
   {
-    "loc": "/five-letter-words/containing/r/",
+    "loc": "/five-letter-words/containing/r",
     "priority": "0.7",
     "changefreq": "monthly",
     "primaryKeyword": "5 letter words containing R",
@@ -784,7 +784,7 @@
     "wordCount": "Filtered"
   },
   {
-    "loc": "/five-letter-words/containing/s/",
+    "loc": "/five-letter-words/containing/s",
     "priority": "0.7",
     "changefreq": "monthly",
     "primaryKeyword": "5 letter words containing S",
@@ -797,7 +797,7 @@
     "wordCount": "Filtered"
   },
   {
-    "loc": "/five-letter-words/containing/t/",
+    "loc": "/five-letter-words/containing/t",
     "priority": "0.7",
     "changefreq": "monthly",
     "primaryKeyword": "5 letter words containing T",
@@ -810,7 +810,7 @@
     "wordCount": "Filtered"
   },
   {
-    "loc": "/five-letter-words/containing/u/",
+    "loc": "/five-letter-words/containing/u",
     "priority": "0.7",
     "changefreq": "monthly",
     "primaryKeyword": "5 letter words containing U",
@@ -823,7 +823,7 @@
     "wordCount": "Filtered"
   },
   {
-    "loc": "/five-letter-words/containing/v/",
+    "loc": "/five-letter-words/containing/v",
     "priority": "0.7",
     "changefreq": "monthly",
     "primaryKeyword": "5 letter words containing V",
@@ -836,7 +836,7 @@
     "wordCount": "Filtered"
   },
   {
-    "loc": "/five-letter-words/containing/w/",
+    "loc": "/five-letter-words/containing/w",
     "priority": "0.7",
     "changefreq": "monthly",
     "primaryKeyword": "5 letter words containing W",
@@ -849,7 +849,7 @@
     "wordCount": "Filtered"
   },
   {
-    "loc": "/five-letter-words/containing/x/",
+    "loc": "/five-letter-words/containing/x",
     "priority": "0.7",
     "changefreq": "monthly",
     "primaryKeyword": "5 letter words containing X",
@@ -862,7 +862,7 @@
     "wordCount": "Filtered"
   },
   {
-    "loc": "/five-letter-words/containing/y/",
+    "loc": "/five-letter-words/containing/y",
     "priority": "0.7",
     "changefreq": "monthly",
     "primaryKeyword": "5 letter words containing Y",
@@ -875,7 +875,7 @@
     "wordCount": "Filtered"
   },
   {
-    "loc": "/five-letter-words/containing/z/",
+    "loc": "/five-letter-words/containing/z",
     "priority": "0.7",
     "changefreq": "monthly",
     "primaryKeyword": "5 letter words containing Z",

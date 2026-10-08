@@ -19,7 +19,7 @@ export function ToolsHubPage() {
     },
     {
       title: 'Wordle Solver Game (Interactive)',
-      href: '/wordle-solver-game/',
+      href: '/wordle-solver-game',
       category: 'wordle',
       length: '5 Letters',
       wordCount: 'Full Target Lexicon',
@@ -27,7 +27,7 @@ export function ToolsHubPage() {
     },
     {
       title: '7-Letter Wordle Solver',
-      href: '/wordle-solver-7-letter/',
+      href: '/wordle-solver-7-letter',
       category: 'wordle',
       length: '7 Letters',
       wordCount: allStats[7]?.totalWords.toLocaleString() || '24,029',
@@ -35,7 +35,7 @@ export function ToolsHubPage() {
     },
     {
       title: '6-Letter Wordle Solver',
-      href: '/wordle-solver-6-letter/',
+      href: '/wordle-solver-6-letter',
       category: 'wordle',
       length: '6 Letters',
       wordCount: allStats[6]?.totalWords.toLocaleString() || '15,788',
@@ -43,7 +43,7 @@ export function ToolsHubPage() {
     },
     {
       title: '4-Letter Wordle Solver',
-      href: '/wordle-solver-4-letter/',
+      href: '/wordle-solver-4-letter',
       category: 'wordle',
       length: '4 Letters',
       wordCount: allStats[4]?.totalWords.toLocaleString() || '4,030',
@@ -51,7 +51,7 @@ export function ToolsHubPage() {
     },
     {
       title: '3-Letter Word Solver',
-      href: '/wordle-solver-3-letter/',
+      href: '/wordle-solver-3-letter',
       category: 'wordle',
       length: '3 Letters',
       wordCount: allStats[3]?.totalWords.toLocaleString() || '1,015',
@@ -59,7 +59,7 @@ export function ToolsHubPage() {
     },
     {
       title: '8-Letter Wordle Solver',
-      href: '/wordle-solver-8-letter/',
+      href: '/wordle-solver-8-letter',
       category: 'wordle',
       length: '8 Letters',
       wordCount: allStats[8]?.totalWords.toLocaleString() || '29,766',
@@ -67,7 +67,7 @@ export function ToolsHubPage() {
     },
     {
       title: 'Advanced Word Finder & Anagram Solver',
-      href: '/word-finder/',
+      href: '/word-finder',
       category: 'pattern',
       length: 'Any Length',
       wordCount: '89,500+ Words',
@@ -75,7 +75,7 @@ export function ToolsHubPage() {
     },
     {
       title: 'Every Wordle Answer Ever (Archive)',
-      href: '/blog/every-wordle-answer-ever/',
+      href: '/blog/every-wordle-answer-ever',
       category: 'guides',
       length: 'Archive',
       wordCount: '1,900+ Solutions',
@@ -83,7 +83,7 @@ export function ToolsHubPage() {
     },
     {
       title: 'Best Wordle Starting Words (Ranked)',
-      href: '/blog/best-wordle-starting-words/',
+      href: '/blog/best-wordle-starting-words',
       category: 'guides',
       length: 'Guide',
       wordCount: 'Coverage Analysis',
@@ -91,7 +91,7 @@ export function ToolsHubPage() {
     },
     {
       title: 'How Wordle Solver Works',
-      href: '/blog/how-wordle-solver-works/',
+      href: '/blog/how-wordle-solver-works',
       category: 'guides',
       length: 'Guide',
       wordCount: 'Algorithm Breakdown',
@@ -99,7 +99,7 @@ export function ToolsHubPage() {
     },
     {
       title: 'Try Harder Wordle Solver Guide',
-      href: '/blog/try-harder-wordle-solver/',
+      href: '/blog/try-harder-wordle-solver',
       category: 'guides',
       length: 'Guide',
       wordCount: 'Hard Mode Tactics',
@@ -231,7 +231,7 @@ export function ToolsHubPage() {
               {'ABCDEFGHIJKLMNOPQRSTUVWXYZ'.split('').map(char => (
                 <Link
                   key={char}
-                  href={`/five-letter-words/starting-with/${char.toLowerCase()}/`}
+                  href={`/five-letter-words/starting-with/${char.toLowerCase()}`}
                   className="w-8 h-8 rounded-lg bg-white border border-stone-200 hover:border-stone-900 flex items-center justify-center font-mono font-bold text-xs text-stone-900 transition-colors"
                 >
                   {char}
@@ -246,7 +246,7 @@ export function ToolsHubPage() {
               {'ABCDEFGHIJKLMNOPQRSTUVWXYZ'.split('').map(char => (
                 <Link
                   key={char}
-                  href={`/five-letter-words/containing/${char.toLowerCase()}/`}
+                  href={`/five-letter-words/containing/${char.toLowerCase()}`}
                   className="w-8 h-8 rounded-lg bg-white border border-stone-200 hover:border-stone-900 flex items-center justify-center font-mono font-bold text-xs text-stone-900 transition-colors"
                 >
                   {char}

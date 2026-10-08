@@ -80,7 +80,7 @@ export function LetterBrowserPage({ mode, letter }: LetterBrowserPageProps) {
               return (
                 <Link
                   key={c}
-                  href={`/five-letter-words/${mode}/${c.toLowerCase()}/`}
+                  href={`/five-letter-words/${mode}/${c.toLowerCase()}`}
                   className={`w-8 h-8 rounded-lg flex items-center justify-center font-mono font-bold text-xs transition-colors ${
                     isSelected
                       ? 'bg-stone-900 text-white shadow-xs'

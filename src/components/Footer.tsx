@@ -34,27 +34,27 @@ export function Footer() {
                 </Link>
               </li>
               <li>
-                <Link href="/wordle-solver-game/" className="hover:text-stone-900 transition-colors">
+                <Link href="/wordle-solver-game" className="hover:text-stone-900 transition-colors">
                   Interactive Wordle Game Mode
                 </Link>
               </li>
               <li>
-                <Link href="/wordle-solver-7-letter/" className="hover:text-stone-900 transition-colors">
+                <Link href="/wordle-solver-7-letter" className="hover:text-stone-900 transition-colors">
                   7-Letter Wordle Solver
                 </Link>
               </li>
               <li>
-                <Link href="/wordle-solver-6-letter/" className="hover:text-stone-900 transition-colors">
+                <Link href="/wordle-solver-6-letter" className="hover:text-stone-900 transition-colors">
                   6-Letter Wordle Solver
                 </Link>
               </li>
               <li>
-                <Link href="/wordle-solver-4-letter/" className="hover:text-stone-900 transition-colors">
+                <Link href="/wordle-solver-4-letter" className="hover:text-stone-900 transition-colors">
                   4-Letter Wordle Solver
                 </Link>
               </li>
               <li>
-                <Link href="/wordle-solver-3-letter/" className="hover:text-stone-900 transition-colors">
+                <Link href="/wordle-solver-3-letter" className="hover:text-stone-900 transition-colors">
                   3-Letter Solver
                 </Link>
               </li>
@@ -68,32 +68,32 @@ export function Footer() {
             </h4>
             <ul className="space-y-1.5">
               <li>
-                <Link href="/word-finder/" className="hover:text-stone-900 transition-colors">
+                <Link href="/word-finder" className="hover:text-stone-900 transition-colors">
                   Anagram & Scrabble Word Finder
                 </Link>
               </li>
               <li>
-                <Link href="/tools/" className="hover:text-stone-900 transition-colors">
+                <Link href="/tools" className="hover:text-stone-900 transition-colors">
                   All Wordle Solver Tools Hub
                 </Link>
               </li>
               <li>
-                <Link href="/five-letter-words/starting-with/s/" className="hover:text-stone-900 transition-colors">
+                <Link href="/five-letter-words/starting-with/s" className="hover:text-stone-900 transition-colors">
                   5-Letter Words Starting With S
                 </Link>
               </li>
               <li>
-                <Link href="/five-letter-words/starting-with/c/" className="hover:text-stone-900 transition-colors">
+                <Link href="/five-letter-words/starting-with/c" className="hover:text-stone-900 transition-colors">
                   5-Letter Words Starting With C
                 </Link>
               </li>
               <li>
-                <Link href="/five-letter-words/containing/e/" className="hover:text-stone-900 transition-colors">
+                <Link href="/five-letter-words/containing/e" className="hover:text-stone-900 transition-colors">
                   5-Letter Words Containing E
                 </Link>
               </li>
               <li>
-                <Link href="/sitemap/" className="hover:text-stone-900 transition-colors font-medium">
+                <Link href="/sitemap" className="hover:text-stone-900 transition-colors font-medium">
                   Sitemap & Keyword Index (67 URLs)
                 </Link>
               </li>
@@ -107,27 +107,27 @@ export function Footer() {
             </h4>
             <ul className="space-y-1.5">
               <li>
-                <Link href="/blog/every-wordle-answer-ever/" className="hover:text-stone-900 transition-colors">
+                <Link href="/blog/every-wordle-answer-ever" className="hover:text-stone-900 transition-colors">
                   Every Wordle Answer Ever Archive
                 </Link>
               </li>
               <li>
-                <Link href="/blog/best-wordle-starting-words/" className="hover:text-stone-900 transition-colors">
+                <Link href="/blog/best-wordle-starting-words" className="hover:text-stone-900 transition-colors">
                   Best Wordle Starting Words (Ranked)
                 </Link>
               </li>
               <li>
-                <Link href="/blog/how-wordle-solver-works/" className="hover:text-stone-900 transition-colors">
+                <Link href="/blog/how-wordle-solver-works" className="hover:text-stone-900 transition-colors">
                   How Our Solver Algorithm Works
                 </Link>
               </li>
               <li>
-                <Link href="/blog/try-harder-wordle-solver/" className="hover:text-stone-900 transition-colors">
+                <Link href="/blog/try-harder-wordle-solver" className="hover:text-stone-900 transition-colors">
                   Try Harder Wordle Solver Guide
                 </Link>
               </li>
               <li>
-                <Link href="/blog/best-wordle-solver-alternatives/" className="hover:text-stone-900 transition-colors">
+                <Link href="/blog/best-wordle-solver-alternatives" className="hover:text-stone-900 transition-colors">
                   Wordle Solver Alternatives Review
                 </Link>
               </li>
@@ -140,7 +140,7 @@ export function Footer() {
           <div className="flex items-center gap-2 flex-wrap">
             <span>&copy; {new Date().getFullYear()} Wordle Solver Pro</span>
             <span aria-hidden="true">·</span>
-            <Link href="/sitemap/" className="hover:text-stone-900 underline">HTML Sitemap</Link>
+            <Link href="/sitemap" className="hover:text-stone-900 underline">HTML Sitemap</Link>
             <span aria-hidden="true">·</span>
             <a href="/sitemap.xml" target="_blank" rel="noreferrer" className="hover:text-stone-900 underline font-mono">sitemap.xml</a>
             <span aria-hidden="true">·</span>

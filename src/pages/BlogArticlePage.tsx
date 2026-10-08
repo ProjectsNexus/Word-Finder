@@ -239,7 +239,7 @@ export function BlogArticlePage({ slug }: BlogArticlePageProps) {
         {/* Article Header */}
         <div className="space-y-4 border-b border-stone-200 pb-8">
           <div className="flex items-center gap-2 text-xs text-stone-500">
-            <Link href="/tools/" className="hover:text-stone-900">Articles & Guides</Link>
+            <Link href="/tools" className="hover:text-stone-900">Articles & Guides</Link>
             <span aria-hidden="true">·</span>
             <span>{article.readingTime}</span>
             <span aria-hidden="true">·</span>
